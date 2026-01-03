@@ -1,46 +1,94 @@
-# Getting Started with Create React App
+# Learn German App 🇩🇪
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A comprehensive React-based application designed to help users learn German from A1 to B2 levels. This app leverages AI technologies to provide personalized learning experiences, including vocabulary building, grammar explanations, reading comprehension, and writing practice.
 
-## Available Scripts
+## Features 🚀
 
-In the project directory, you can run:
+-   **AI-Powered Learning**: Integrates DeepSeek AI for generating dynamic exercises and providing detailed feedback.
+-   **Vocabulary Trainer**: Extensive vocabulary lists for different levels (A1-B2) with examples.
+-   **Grammar Guide**: Interactive grammar lessons and exercises.
+-   **Skill Practice**: dedicated sections for Reading ("Lesen"), Writing ("Schreiben"), Listening ("Hören"), and Speaking ("Sprechen").
+-   **Quizzes & Tests**: Model tests simulating real exam conditions.
+-   **Progress Tracking**: Monitor your daily goals and learning streak.
+-   **Text-to-Speech**: Integrated Google TTS for pronunciation practice.
 
-### `npm start`
+## Prerequisites 📋
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Before you begin, ensure you have the following installed:
+-   **Node.js** (v14 or higher)
+-   **npm** (usually comes with Node.js)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Installation 🛠️
 
-### `npm test`
+1.  Clone the repository (if you haven't already):
+    ```bash
+    git clone <repository-url>
+    cd learn-german-app
+    ```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2.  Install dependencies:
+    ```bash
+    npm install
+    ```
 
-### `npm run build`
+## Configuration ⚙️
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Create a `.env` file in the root directory of the project to store your API keys. You can start by copying the example file:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+cp .env.example .env
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Or create it manually and add the following variables:
 
-### `npm run eject`
+```env
+# Required for AI features (vocabulary generation, writing feedback, etc.)
+REACT_APP_DEEPSEEK_API_KEY=your_deepseek_api_key_here
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Required for Text-To-Speech functionality
+REACT_APP_GOOGLE_TTS_API_KEY=your_google_cloud_api_key_here
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Required for some data fetching features
+REACT_APP_GITHUB_ACCESS_TOKEN=your_github_token_here
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+> **Note**: This file is ignored by git to keep your secrets safe. Never commit your `.env` file.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Running the App 🏃‍♂️
 
-## Learn More
+### Local Development
+To run the app on your local machine:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will reload when you make changes.
+
+### Running on Other Devices (Same Network) 📱
+To access the app from your phone or tablet connected to the same Wi-Fi network:
+
+1.  Make sure your computer and mobile device are on the **same Wi-Fi network**.
+
+2.  Start the app with the host configuration (already configured in `package.json`):
+    ```bash
+    npm start
+    ```
+
+3.  Find your computer's local IP address:
+    -   **Mac**: Open Terminal and type `ipconfig getifaddr en0` (or check System Settings > Wi-Fi > Details).
+    -   **Windows**: Open Command Prompt and type `ipconfig`. Look for "IPv4 Address".
+    -   **Linux**: Open Terminal and type `hostname -I`.
+
+4.  On your mobile device, open a browser and navigate to:
+    ```
+    http://<YOUR_LOCAL_IP>:3000
+    ```
+    *Example: `http://192.168.1.5:3000`*
+
+## Built With 🛠️
+-   [React](https://reactjs.org/)
+-   [TypeScript](https://www.typescriptlang.org/)
+-   [Tailwind CSS](https://tailwindcss.com/)
+-   [Material UI](https://mui.com/)
+-   [DeepSeek API](https://deepseek.com/)
