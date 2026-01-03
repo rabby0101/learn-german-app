@@ -1,0 +1,315 @@
+[
+    {
+        "id": "email-1",
+        "type": "email",
+        "level": "A2",
+        "title": "Krankmeldung an den Arbeitgeber",
+        "prompt": "Schreiben Sie eine E-Mail an Ihren Arbeitgeber. Sie sind krank und können heute nicht zur Arbeit kommen. Erklären Sie, was Ihnen fehlt und wann Sie voraussichtlich wieder arbeiten können.",
+        "wordCount": {
+            "min": 50,
+            "max": 80
+        },
+        "timeMinutes": 10,
+        "tips": [
+            "Beginnen Sie mit einer höflichen Anrede",
+            "Nennen Sie den Grund für Ihre Abwesenheit",
+            "Geben Sie an, wann Sie voraussichtlich zurück sind",
+            "Schließen Sie mit freundlichen Grüßen"
+        ],
+        "keywords": [
+            "krank",
+            "Arzt",
+            "Fieber",
+            "Erkältung",
+            "entschuldigen",
+            "zurückkommen"
+        ]
+    },
+    {
+        "id": "email-2",
+        "type": "email",
+        "level": "B1",
+        "title": "Reklamation eines Produkts",
+        "prompt": "Sie haben online ein Produkt bestellt, aber es ist beschädigt angekommen. Schreiben Sie eine E-Mail an den Kundenservice. Beschreiben Sie das Problem und fordern Sie eine Lösung.",
+        "wordCount": {
+            "min": 80,
+            "max": 120
+        },
+        "timeMinutes": 15,
+        "tips": [
+            "Geben Sie die Bestellnummer an",
+            "Beschreiben Sie den Schaden genau",
+            "Sagen Sie, was Sie als Lösung erwarten",
+            "Bleiben Sie höflich aber bestimmt"
+        ],
+        "keywords": [
+            "Bestellung",
+            "beschädigt",
+            "Ersatz",
+            "Rückerstattung",
+            "enttäuscht",
+            "erwarten"
+        ]
+    },
+    {
+        "id": "email-3",
+        "type": "email",
+        "level": "B2",
+        "title": "Bewerbung für ein Praktikum",
+        "prompt": "Schreiben Sie eine Bewerbungs-E-Mail für ein Praktikum bei einem deutschen Unternehmen. Stellen Sie sich vor, erklären Sie Ihre Motivation und Ihre relevanten Qualifikationen.",
+        "wordCount": {
+            "min": 120,
+            "max": 180
+        },
+        "timeMinutes": 20,
+        "tips": [
+            "Beginnen Sie mit dem Grund für Ihre Bewerbung",
+            "Erwähnen Sie Ihre relevante Erfahrung",
+            "Zeigen Sie Motivation und Interesse am Unternehmen",
+            "Schließen Sie mit der Bitte um ein Gespräch"
+        ],
+        "keywords": [
+            "Praktikum",
+            "Erfahrung",
+            "motiviert",
+            "Qualifikationen",
+            "Kenntnisse",
+            "bewerben"
+        ]
+    },
+    {
+        "id": "essay-1",
+        "type": "essay",
+        "level": "B1",
+        "title": "Vor- und Nachteile von Online-Shopping",
+        "prompt": "Immer mehr Menschen kaufen im Internet ein. Schreiben Sie einen Aufsatz über die Vor- und Nachteile des Online-Shoppings. Geben Sie Ihre eigene Meinung.",
+        "wordCount": {
+            "min": 150,
+            "max": 200
+        },
+        "timeMinutes": 25,
+        "tips": [
+            "Beginnen Sie mit einer Einleitung zum Thema",
+            "Nennen Sie mindestens zwei Vorteile",
+            "Nennen Sie mindestens zwei Nachteile",
+            "Schließen Sie mit Ihrer persönlichen Meinung"
+        ],
+        "keywords": [
+            "bequem",
+            "Auswahl",
+            "Lieferung",
+            "Umwelt",
+            "Rücksendung",
+            "vergleichen",
+            "einerseits",
+            "andererseits"
+        ]
+    },
+    {
+        "id": "essay-2",
+        "type": "essay",
+        "level": "B2",
+        "title": "Sollte Homeoffice die Zukunft der Arbeit sein?",
+        "prompt": "Die Corona-Pandemie hat das Homeoffice populär gemacht. Diskutieren Sie die Vor- und Nachteile des Arbeitens von zu Hause und nehmen Sie Stellung zu der Frage, ob Homeoffice die Zukunft der Arbeit sein sollte.",
+        "wordCount": {
+            "min": 200,
+            "max": 280
+        },
+        "timeMinutes": 30,
+        "tips": [
+            "Strukturieren Sie Ihren Text mit Einleitung, Hauptteil und Schluss",
+            "Verwenden Sie Konnektoren (außerdem, jedoch, deshalb)",
+            "Stützen Sie Ihre Argumente mit Beispielen",
+            "Formulieren Sie eine klare Schlussfolgerung"
+        ],
+        "keywords": [
+            "Produktivität",
+            "Work-Life-Balance",
+            "Flexibilität",
+            "Isolation",
+            "Kommunikation",
+            "Zusammenarbeit"
+        ]
+    },
+    {
+        "id": "essay-3",
+        "type": "essay",
+        "level": "C1",
+        "title": "Künstliche Intelligenz in der Bildung",
+        "prompt": "Künstliche Intelligenz wird zunehmend in Schulen und Universitäten eingesetzt. Analysieren Sie die Chancen und Risiken dieser Entwicklung und diskutieren Sie, wie ein verantwortungsvoller Einsatz von KI in der Bildung aussehen sollte.",
+        "wordCount": {
+            "min": 280,
+            "max": 350
+        },
+        "timeMinutes": 40,
+        "tips": [
+            "Definieren Sie zunächst, was Sie unter KI in der Bildung verstehen",
+            "Differenzieren Sie zwischen verschiedenen Anwendungsbereichen",
+            "Berücksichtigen Sie ethische Aspekte",
+            "Entwickeln Sie konkrete Handlungsempfehlungen"
+        ],
+        "keywords": [
+            "personalisiertes Lernen",
+            "Datenschutz",
+            "Chancengleichheit",
+            "digitale Kompetenz",
+            "Lehrerrolle",
+            "kritisches Denken"
+        ]
+    },
+    {
+        "id": "informal-1",
+        "type": "informal-letter",
+        "level": "A2",
+        "title": "Postkarte aus dem Urlaub",
+        "prompt": "Sie sind im Urlaub. Schreiben Sie eine Postkarte an einen Freund oder eine Freundin. Erzählen Sie, wo Sie sind, was Sie machen und wie das Wetter ist.",
+        "wordCount": {
+            "min": 40,
+            "max": 60
+        },
+        "timeMinutes": 8,
+        "tips": [
+            "Beginnen Sie mit 'Liebe/r...'",
+            "Beschreiben Sie den Ort",
+            "Erzählen Sie von Ihren Aktivitäten",
+            "Beenden Sie mit Grüßen"
+        ],
+        "keywords": [
+            "Strand",
+            "Sonne",
+            "schön",
+            "besuchen",
+            "genießen",
+            "Grüße"
+        ]
+    },
+    {
+        "id": "informal-2",
+        "type": "informal-letter",
+        "level": "B1",
+        "title": "Einladung zur Geburtstagsparty",
+        "prompt": "Sie planen eine Geburtstagsparty und möchten einen guten Freund einladen. Schreiben Sie ihm eine Nachricht. Geben Sie Datum, Uhrzeit und Ort an und erzählen Sie, was Sie geplant haben.",
+        "wordCount": {
+            "min": 80,
+            "max": 120
+        },
+        "timeMinutes": 12,
+        "tips": [
+            "Nennen Sie alle wichtigen Details (Wann? Wo?)",
+            "Beschreiben Sie, was geplant ist",
+            "Bitten Sie um Rückmeldung",
+            "Schreiben Sie freundschaftlich und locker"
+        ],
+        "keywords": [
+            "feiern",
+            "Gäste",
+            "mitbringen",
+            "freuen",
+            "bestätigen",
+            "zusammen"
+        ]
+    },
+    {
+        "id": "story-1",
+        "type": "story",
+        "level": "B1",
+        "title": "Ein unerwarteter Besuch",
+        "prompt": "Schreiben Sie eine kurze Geschichte, die mit diesem Satz beginnt: 'Es war ein ganz normaler Montag, bis es plötzlich an der Tür klopfte.'",
+        "wordCount": {
+            "min": 120,
+            "max": 180
+        },
+        "timeMinutes": 20,
+        "tips": [
+            "Beschreiben Sie die Situation am Anfang",
+            "Führen Sie einen überraschenden Wendepunkt ein",
+            "Verwenden Sie die Vergangenheitsformen (Präteritum, Perfekt)",
+            "Beenden Sie die Geschichte mit einer Auflösung"
+        ],
+        "keywords": [
+            "plötzlich",
+            "überrascht",
+            "dann",
+            "schließlich",
+            "konnte nicht glauben"
+        ]
+    },
+    {
+        "id": "story-2",
+        "type": "story",
+        "level": "B2",
+        "title": "Die verlorene Tasche",
+        "prompt": "Schreiben Sie eine Geschichte über jemanden, der in einer fremden Stadt seine Tasche mit allen wichtigen Dokumenten und Geld verliert. Wie löst die Person das Problem?",
+        "wordCount": {
+            "min": 180,
+            "max": 250
+        },
+        "timeMinutes": 25,
+        "tips": [
+            "Bauen Sie Spannung auf",
+            "Beschreiben Sie die Gefühle der Hauptperson",
+            "Fügen Sie interessante Nebencharaktere ein",
+            "Zeigen Sie, wie das Problem gelöst wird"
+        ],
+        "keywords": [
+            "verzweifelt",
+            "Hilfe",
+            "fremd",
+            "Hoffnung",
+            "dankbar",
+            "unerwartet"
+        ]
+    },
+    {
+        "id": "report-1",
+        "type": "report",
+        "level": "B2",
+        "title": "Bericht über eine Veranstaltung",
+        "prompt": "Sie haben an einem Firmenevent, einer Konferenz oder einem Workshop teilgenommen. Schreiben Sie einen kurzen Bericht für Ihre Kollegen. Beschreiben Sie die wichtigsten Punkte und Ihre Eindrücke.",
+        "wordCount": {
+            "min": 150,
+            "max": 220
+        },
+        "timeMinutes": 20,
+        "tips": [
+            "Beginnen Sie mit grundlegenden Informationen (Was, Wann, Wo)",
+            "Beschreiben Sie die wichtigsten Inhalte",
+            "Teilen Sie Ihre Beobachtungen und Eindrücke",
+            "Fassen Sie am Ende die wichtigsten Erkenntnisse zusammen"
+        ],
+        "keywords": [
+            "Veranstaltung",
+            "Teilnehmer",
+            "Thema",
+            "Präsentation",
+            "Ergebnis",
+            "empfehlen"
+        ]
+    },
+    {
+        "id": "formal-1",
+        "type": "formal-letter",
+        "level": "B2",
+        "title": "Kündigung eines Vertrags",
+        "prompt": "Sie möchten Ihren Handyvertrag kündigen. Schreiben Sie einen formellen Brief an den Anbieter. Nennen Sie Ihre Kundennummer, das Kündigungsdatum und bitten Sie um eine schriftliche Bestätigung.",
+        "wordCount": {
+            "min": 100,
+            "max": 150
+        },
+        "timeMinutes": 15,
+        "tips": [
+            "Verwenden Sie die formelle Anrede 'Sehr geehrte Damen und Herren'",
+            "Nennen Sie alle relevanten Vertragsdaten",
+            "Formulieren Sie Ihr Anliegen klar und präzise",
+            "Schließen Sie mit 'Mit freundlichen Grüßen'"
+        ],
+        "keywords": [
+            "kündigen",
+            "fristgerecht",
+            "Bestätigung",
+            "Vertragsnummer",
+            "Laufzeit",
+            "wirksam"
+        ]
+    }
+]

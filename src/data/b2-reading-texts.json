@@ -1,0 +1,227 @@
+[
+  {
+    "id": "reading-1",
+    "title": "Die Zukunft der Arbeit",
+    "difficulty": "B2",
+    "theme": "Work & Technology",
+    "wordCount": 450,
+    "text": "Die Digitalisierung verändert unsere Arbeitswelt grundlegend. Während früher die meisten Menschen ihr ganzes Berufsleben in einem Unternehmen verbracht haben, wechseln heute viele Arbeitnehmer mehrmals ihren Job oder sogar ihre Branche. Diese Entwicklung wird durch technologische Fortschritte beschleunigt, die einerseits neue Berufsfelder schaffen, andererseits aber auch traditionelle Arbeitsplätze überflüssig machen.\n\nBesonders die künstliche Intelligenz und die Automatisierung haben erhebliche Auswirkungen auf den Arbeitsmarkt. Routineaufgaben werden zunehmend von Maschinen übernommen, was sowohl Chancen als auch Risiken mit sich bringt. Einerseits werden Arbeitnehmer von monotonen Tätigkeiten befreit und können sich auf kreativere und anspruchsvollere Aufgaben konzentrieren. Andererseits müssen sie sich ständig weiterbilden, um mit der rasanten technologischen Entwicklung Schritt zu halten.\n\nDas Konzept des lebenslangen Lernens gewinnt daher an Bedeutung. Bildungseinrichtungen und Unternehmen sind gefordert, flexible Weiterbildungsmöglichkeiten anzubieten. Auch die Work-Life-Balance rückt zunehmend in den Fokus. Homeoffice und flexible Arbeitszeiten ermöglichen es vielen Beschäftigten, Beruf und Privatleben besser zu vereinbaren. Gleichzeitig kann die ständige Erreichbarkeit jedoch zu Stress und Überlastung führen.\n\nExperten sind sich einig, dass die Arbeitswelt der Zukunft vielfältiger und flexibler sein wird. Traditionelle Vollzeitstellen werden möglicherweise seltener, während Projekt- und Teilzeitarbeit zunehmen. Dies erfordert von Arbeitnehmern mehr Eigenverantwortung und Anpassungsfähigkeit, bietet aber auch neue Möglichkeiten zur Selbstverwirklichung.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple-choice",
+        "question": "Welche Haltung nimmt der Text gegenüber der Digitalisierung der Arbeitswelt ein?",
+        "options": [
+          "Kritisch und ablehnend gegenüber allen technologischen Veränderungen",
+          "Ausgewogen, mit Anerkennung sowohl der Chancen als auch der Herausforderungen",
+          "Begeistert und ohne Vorbehalte gegenüber dem technologischen Fortschritt",
+          "Neutral und ohne eigene Bewertung der Entwicklungen"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Der Text präsentiert eine ausgewogene Sichtweise, indem er sowohl die positiven Aspekte (neue Berufsfelder, kreativere Aufgaben) als auch die negativen (Notwendigkeit ständiger Weiterbildung, Stress durch Erreichbarkeit) darstellt."
+      },
+      {
+        "id": "q2",
+        "type": "multiple-choice",
+        "question": "Was impliziert der Text über die Beziehung zwischen Automatisierung und menschlicher Arbeit?",
+        "options": [
+          "Maschinen werden alle menschlichen Arbeitsplätze komplett ersetzen",
+          "Die Art der menschlichen Arbeit wird sich von Routine zu komplexeren Tätigkeiten verschieben",
+          "Automatisierung hat keinen bedeutenden Einfluss auf die Arbeitswelt",
+          "Menschen werden nur noch kreativ arbeiten und keine praktischen Aufgaben mehr haben"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Der Text deutet an, dass durch die Übernahme von Routineaufgaben durch Maschinen Menschen sich auf 'kreativere und anspruchsvollere Aufgaben' konzentrieren können - also eine Verschiebung, nicht eine vollständige Ersetzung."
+      },
+      {
+        "id": "q3",
+        "type": "multiple-choice",
+        "question": "Warum erwähnt der Text sowohl Chancen als auch Risiken von Homeoffice im selben Kontext?",
+        "options": [
+          "Um zu zeigen, dass flexible Arbeitsformen widersprüchliche Auswirkungen haben können",
+          "Um zu beweisen, dass Homeoffice grundsätzlich problematisch ist",
+          "Um verschiedene Meinungen gleichwertig darzustellen",
+          "Um die Leser zu verwirren und keine klare Position einzunehmen"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Der Text zeigt die dialektische Natur moderner Arbeitsformen: Dieselbe Entwicklung (Homeoffice) kann sowohl positive Effekte (bessere Work-Life-Balance) als auch negative (Stress durch ständige Erreichbarkeit) haben."
+      },
+      {
+        "id": "q4",
+        "type": "multiple-choice",
+        "question": "Was lässt sich aus dem Text über die Verantwortung für die berufliche Entwicklung schließen?",
+        "options": [
+          "Die Verantwortung liegt hauptsächlich bei den Arbeitgebern",
+          "Sie verlagert sich zunehmend auf die Arbeitnehmer selbst",
+          "Der Staat sollte die gesamte Verantwortung übernehmen",
+          "Niemand trägt wirklich Verantwortung in der modernen Arbeitswelt"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Der Text betont, dass die zukünftige Arbeitswelt 'mehr Eigenverantwortung und Anpassungsfähigkeit' von Arbeitnehmern erfordert, was auf eine Verlagerung der Verantwortung hindeutet."
+      },
+      {
+        "id": "q5",
+        "type": "multiple-choice",
+        "question": "Welcher Zusammenhang wird zwischen verschiedenen Trends im Text hergestellt?",
+        "options": [
+          "Technologischer Wandel führt zu häufigerem Jobwechsel, was lebenslanges Lernen notwendig macht",
+          "Homeoffice verursacht Automatisierung in allen Branchen",
+          "Flexible Arbeitszeiten ersetzen die Notwendigkeit der Weiterbildung",
+          "Projekt- und Teilzeitarbeit machen Vollzeitjobs überflüssig"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Der Text zeigt eine kausale Kette: Technologische Entwicklung → neue Berufsfelder und häufigerer Jobwechsel → Notwendigkeit sich ständig weiterzubilden (lebenslanges Lernen)."
+      }
+    ]
+  },
+  {
+    "id": "reading-2",
+    "title": "Nachhaltiger Tourismus",
+    "difficulty": "B2",
+    "theme": "Environment & Travel",
+    "wordCount": 420,
+    "text": "Der Tourismus boomt weltweit, doch die negativen Auswirkungen auf Umwelt und lokale Gemeinschaften werden zunehmend kritisch betrachtet. Massentourismus führt oft zu Umweltverschmutzung, Überbevölkerung beliebter Destinationen und zur Zerstörung natürlicher Lebensräume. Als Reaktion darauf gewinnt das Konzept des nachhaltigen Tourismus immer mehr an Bedeutung.\n\nNachhaltiger Tourismus zielt darauf ab, die negativen Auswirkungen des Reisens zu minimieren und gleichzeitig positive Effekte für die besuchten Regionen zu maximieren. Dies umfasst den Schutz der Umwelt, die Förderung der lokalen Wirtschaft und die Wahrung kultureller Traditionen. Reisende werden ermutigt, bewusste Entscheidungen zu treffen: lokale Unterkünfte statt großer Hotelketten zu wählen, öffentliche Verkehrsmittel zu nutzen und respektvoll mit der Kultur und Natur umzugehen.\n\nViele Destinationen haben bereits Maßnahmen ergriffen, um den Tourismus nachhaltiger zu gestalten. Einige Städte führen Besucherobergrenzen ein oder verlangen höhere Gebühren, um den Massenansturm zu regulieren. Naturschutzgebiete setzen auf Ökotourismus, bei dem Besucher die Natur erleben können, ohne sie zu beschädigen. Hotels und Reiseveranstalter investieren in umweltfreundliche Technologien und kompensieren ihre CO2-Emissionen.\n\nDie Verantwortung liegt jedoch nicht nur bei Anbietern und Behörden, sondern auch bei den Reisenden selbst. Jeder kann durch bewusste Entscheidungen einen Beitrag leisten: längere Aufenthalte statt Kurztrips, um den CO2-Fußabdruck zu reduzieren, Unterstützung lokaler Geschäfte und Respekt gegenüber Einheimischen und ihrer Kultur. Nur durch gemeinsame Anstrengungen kann der Tourismus zu einer nachhaltigen Industrie werden, die sowohl den Besuchern als auch den besuchten Regionen zugutekommt.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple-choice",
+        "question": "Welche Argumentationsstrategie verwendet der Text, um für nachhaltigen Tourismus zu werben?",
+        "options": [
+          "Er präsentiert emotionale Appelle ohne sachliche Argumente",
+          "Er zeigt die Probleme des Massentourismus und bietet dann Lösungsansätze",
+          "Er verwendet ausschließlich statistische Daten und Zahlen",
+          "Er kritisiert nur die Tourismusindustrie ohne Lösungen vorzuschlagen"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Der Text folgt einer Problem-Lösungs-Struktur: Zuerst werden die negativen Auswirkungen des Massentourismus dargestellt, dann wird nachhaltiger Tourismus als Alternative präsentiert."
+      },
+      {
+        "id": "q2",
+        "type": "multiple-choice",
+        "question": "Was impliziert der Text über die Wirksamkeit von Einzelmaßnahmen im nachhaltigen Tourismus?",
+        "options": [
+          "Regulierungsmaßnahmen allein können alle Probleme lösen",
+          "Nur individuelle Verhaltensänderungen sind wichtig",
+          "Ein systemischer Ansatz mit verschiedenen Akteuren ist notwendig",
+          "Technologische Lösungen machen Verhaltensänderungen überflüssig"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Der Text beschreibt Maßnahmen auf verschiedenen Ebenen (Destinationen, Hotels, Reisende) und betont 'gemeinsame Anstrengungen', was auf einen systemischen Ansatz hindeutet."
+      },
+      {
+        "id": "q3",
+        "type": "multiple-choice",
+        "question": "Wie stellt der Text das Verhältnis zwischen wirtschaftlichen Interessen und Nachhaltigkeit dar?",
+        "options": [
+          "Als unvereinbare Gegensätze, die sich ausschließen",
+          "Als potenziell vereinbar durch bewusste Geschäftspraktiken",
+          "Wirtschaftliche Interessen werden als unwichtig dargestellt",
+          "Nachhaltigkeit wird als reines Marketinginstrument beschrieben"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Der Text zeigt, dass Hotels und Reiseveranstalter in umweltfreundliche Technologien investieren und dabei weiterhin wirtschaftlich aktiv sind - Nachhaltigkeit und Wirtschaftlichkeit können koexistieren."
+      },
+      {
+        "id": "q4",
+        "type": "multiple-choice",
+        "question": "Welche Funktion haben die konkreten Beispiele (Besucherobergrenzen, CO2-Kompensation) im Text?",
+        "options": [
+          "Sie dienen als vollständige Liste aller möglichen Maßnahmen",
+          "Sie illustrieren abstrakte Konzepte mit praktischen Umsetzungen",
+          "Sie kritisieren diese Maßnahmen als unzureichend",
+          "Sie zeigen, dass nur diese Maßnahmen wirksam sind"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Die Beispiele machen das abstrakte Konzept 'nachhaltiger Tourismus' greifbar und zeigen, wie es in der Praxis umgesetzt werden kann."
+      },
+      {
+        "id": "q5",
+        "type": "multiple-choice",
+        "question": "Was lässt sich aus der Schlussfolgerung des Textes über die Vision nachhaltigen Tourismus ableiten?",
+        "options": [
+          "Tourismus sollte komplett vermieden werden",
+          "Eine Win-Win-Situation für Besucher und besuchte Regionen ist das Ziel",
+          "Die Interessen der Touristen haben Vorrang vor lokalen Bedürfnissen",
+          "Nachhaltiger Tourismus ist ein unerreichbares Ideal"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Der letzte Satz spricht von einer Industrie, 'die sowohl den Besuchern als auch den besuchten Regionen zugutekommt' - also eine gegenseitig vorteilhafte Lösung."
+      }
+    ]
+  },
+  {
+    "id": "reading-3",
+    "title": "Die digitale Kluft",
+    "difficulty": "B2",
+    "theme": "Technology & Society",
+    "wordCount": 480,
+    "text": "In unserer zunehmend digitalisierten Welt wird der Zugang zu Technologie und digitalen Kompetenzen immer wichtiger. Doch nicht alle Menschen haben die gleichen Möglichkeiten, von den Vorteilen der Digitalisierung zu profitieren. Die sogenannte 'digitale Kluft' beschreibt die Ungleichheit beim Zugang zu Informations- und Kommunikationstechnologien sowie bei den Fähigkeiten, diese effektiv zu nutzen.\n\nDiese Kluft zeigt sich auf verschiedenen Ebenen. International besteht ein großes Gefälle zwischen Industrieländern und Entwicklungsländern. Während in wohlhabenden Nationen ein Großteil der Bevölkerung Zugang zum Internet hat, sind in ärmeren Regionen oft noch grundlegende Infrastrukturen wie zuverlässige Stromversorgung und Breitbandanschlüsse Mangelware. Doch auch innerhalb entwickelter Gesellschaften gibt es erhebliche Unterschiede.\n\nBesonders betroffen sind oft ältere Menschen, Menschen mit niedrigem Einkommen und Bewohner ländlicher Gebiete. Ältere Personen haben häufig Schwierigkeiten, mit der rasanten technologischen Entwicklung Schritt zu halten. Ihnen fehlen manchmal die Schulung und die Motivation, neue Technologien zu erlernen. In ländlichen Regionen ist die Internetinfrastruktur oft schlechter ausgebaut als in Städten, was zu langsameren Verbindungen und höheren Kosten führt.\n\nDie Konsequenzen der digitalen Kluft sind weitreichend. Im Bildungsbereich haben Schüler ohne Zugang zu Computern und Internet erhebliche Nachteile. Im Berufsleben werden digitale Kompetenzen zunehmend vorausgesetzt, was Menschen ohne diese Fähigkeiten vom Arbeitsmarkt ausschließt. Auch im Alltag wird der Zugang zu vielen Dienstleistungen – von Behördengängen bis zu Bankgeschäften – zunehmend digitalisiert.\n\nUm die digitale Kluft zu überbrücken, sind verschiedene Maßnahmen notwendig. Regierungen müssen in den Ausbau der digitalen Infrastruktur investieren, besonders in unterversorgten Regionen. Bildungseinrichtungen sollten digitale Kompetenzen bereits früh vermitteln und auch Angebote für Erwachsene und Senioren schaffen. Darüber hinaus muss sichergestellt werden, dass digitale Dienstleistungen auch für Menschen ohne Internetzugang oder mit eingeschränkten digitalen Fähigkeiten nutzbar bleiben.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple-choice",
+        "question": "Welche tiefergehende gesellschaftliche Problematik reflektiert die digitale Kluft laut Text?",
+        "options": [
+          "Nur ein technisches Problem mangelnder Infrastruktur",
+          "Eine Verstärkung bereits bestehender sozialer und wirtschaftlicher Ungleichheiten",
+          "Ausschließlich ein Generationenkonflikt",
+          "Ein vorübergehendes Problem, das sich von selbst löst"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Der Text zeigt, dass bestimmte bereits benachteiligte Gruppen (niedrige Einkommen, ländliche Gebiete, ältere Menschen) zusätzlich durch fehlenden digitalen Zugang marginalisiert werden - die digitale Kluft verstärkt existierende Ungleichheiten."
+      },
+      {
+        "id": "q2",
+        "type": "multiple-choice",
+        "question": "Was impliziert der Text über die Beziehung zwischen digitaler Teilhabe und gesellschaftlicher Teilhabe?",
+        "options": [
+          "Sie sind völlig unabhängig voneinander",
+          "Digitale Teilhabe wird zunehmend zur Voraussetzung für umfassende gesellschaftliche Teilhabe",
+          "Gesellschaftliche Teilhabe ist wichtiger als digitale Teilhabe",
+          "Nur im Bildungsbereich sind beide Aspekte verbunden"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Der Text beschreibt, wie digitaler Zugang in allen Lebensbereichen (Bildung, Arbeit, Alltag) notwendig wird - ohne digitale Teilhabe wird volle gesellschaftliche Teilhabe unmöglich."
+      },
+      {
+        "id": "q3",
+        "type": "multiple-choice",
+        "question": "Wie charakterisiert der Text die Natur der digitalen Kluft in ihrer Komplexität?",
+        "options": [
+          "Als einfaches Problem mit einer eindimensionalen Lösung",
+          "Als mehrdimensionales Phänomen mit unterschiedlichen Ursachen und Ausprägungen",
+          "Als ausschließlich infrastrukturelles Problem",
+          "Als Problem, das nur durch individuelle Motivation lösbar ist"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Der Text zeigt verschiedene Dimensionen: internationale vs. nationale Kluft, Infrastruktur vs. Kompetenzen, verschiedene betroffene Gruppen - es ist ein komplexes, vielschichtiges Problem."
+      },
+      {
+        "id": "q4",
+        "type": "multiple-choice",
+        "question": "Welche Entwicklung macht der Text in Bezug auf öffentliche Dienstleistungen deutlich?",
+        "options": [
+          "Digitalisierung ersetzt alle traditionellen Zugangswege vollständig",
+          "Die Digitalisierung schreitet voran, sollte aber nicht zur Exklusion führen",
+          "Traditionelle Dienstleistungen sind grundsätzlich besser als digitale",
+          "Öffentliche Dienstleistungen spielen keine Rolle bei der digitalen Kluft"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Der Text fordert am Ende, dass digitale Dienstleistungen 'auch für Menschen ohne Internetzugang oder mit eingeschränkten digitalen Fähigkeiten nutzbar bleiben' - digitale Innovation soll nicht zur Exklusion führen."
+      },
+      {
+        "id": "q5",
+        "type": "multiple-choice",
+        "question": "Was lässt sich aus der Aufzählung der Lösungsansätze über die Verantwortungsverteilung schließen?",
+        "options": [
+          "Ausschließlich die Regierung ist verantwortlich",
+          "Die Verantwortung ist auf verschiedene Akteure (Staat, Bildungseinrichtungen, Gesellschaft) verteilt",
+          "Individuen müssen das Problem alleine lösen",
+          "Private Unternehmen sollten alle Lösungen bereitstellen"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Der Text nennt verschiedene Verantwortliche: Regierungen (Infrastruktur), Bildungseinrichtungen (Kompetenzvermittlung), und die Gesellschaft allgemein (inklusive Dienstleistungen) - eine kollektive Verantwortung."
+      }
+    ]
+  }
+]

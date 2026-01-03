@@ -1,0 +1,359 @@
+[
+  {
+    "german": "die Globalisierung",
+    "english": "globalization",
+    "example": "Die Globalisierung hat sowohl positive als auch negative Auswirkungen auf die Wirtschaft.",
+    "theme": "Economy & Business",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Nachhaltigkeit",
+    "english": "sustainability",
+    "example": "Nachhaltigkeit ist ein wichtiges Thema in der modernen Umweltpolitik.",
+    "theme": "Environment",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Digitalisierung",
+    "english": "digitalization",
+    "example": "Die Digitalisierung verändert unsere Arbeitsweise grundlegend.",
+    "theme": "Technology",
+    "difficulty": "B2"
+  },
+  {
+    "german": "der Klimawandel",
+    "english": "climate change",
+    "example": "Der Klimawandel stellt eine ernsthafte Bedrohung für unseren Planeten dar.",
+    "theme": "Environment",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Bevölkerung",
+    "english": "population",
+    "example": "Die Bevölkerung Deutschlands nimmt langsam ab.",
+    "theme": "Society",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Entwicklung",
+    "english": "development",
+    "example": "Die technologische Entwicklung schreitet schnell voran.",
+    "theme": "Technology",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Forschung",
+    "english": "research",
+    "example": "Die medizinische Forschung macht große Fortschritte.",
+    "theme": "Science & Education",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Gesellschaft",
+    "english": "society",
+    "example": "Unsere Gesellschaft wird immer vielfältiger.",
+    "theme": "Society",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Herausforderung",
+    "english": "challenge",
+    "example": "Die Integration von Flüchtlingen ist eine große Herausforderung.",
+    "theme": "Society",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Innovation",
+    "english": "innovation",
+    "example": "Innovation ist der Schlüssel zum wirtschaftlichen Erfolg.",
+    "theme": "Economy & Business",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Kommunikation",
+    "english": "communication",
+    "example": "Gute Kommunikation ist wichtig für erfolgreiche Teamarbeit.",
+    "theme": "Work",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Maßnahme",
+    "english": "measure/action",
+    "example": "Die Regierung hat neue Maßnahmen gegen die Pandemie ergriffen.",
+    "theme": "Politics",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Quelle",
+    "english": "source",
+    "example": "Erneuerbare Energiequellen werden immer wichtiger.",
+    "theme": "Environment",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Verantwortung",
+    "english": "responsibility",
+    "example": "Jeder trägt Verantwortung für den Umweltschutz.",
+    "theme": "Society",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Voraussetzung",
+    "english": "requirement/prerequisite",
+    "example": "Gute Deutschkenntnisse sind eine Voraussetzung für diesen Job.",
+    "theme": "Work",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Auswirkung",
+    "english": "impact/effect",
+    "example": "Die Auswirkungen der Pandemie sind weltweit spürbar.",
+    "theme": "Society",
+    "difficulty": "B2"
+  },
+  {
+    "german": "der Fortschritt",
+    "english": "progress",
+    "example": "Der technologische Fortschritt bringt viele Veränderungen mit sich.",
+    "theme": "Technology",
+    "difficulty": "B2"
+  },
+  {
+    "german": "der Mangel",
+    "english": "lack/shortage",
+    "example": "In vielen Ländern gibt es einen Mangel an sauberem Trinkwasser.",
+    "theme": "Environment",
+    "difficulty": "B2"
+  },
+  {
+    "german": "der Umweltschutz",
+    "english": "environmental protection",
+    "example": "Umweltschutz sollte für alle Menschen wichtig sein.",
+    "theme": "Environment",
+    "difficulty": "B2"
+  },
+  {
+    "german": "der Wandel",
+    "english": "change",
+    "example": "Der gesellschaftliche Wandel vollzieht sich langsam.",
+    "theme": "Society",
+    "difficulty": "B2"
+  },
+  {
+    "german": "das Bewusstsein",
+    "english": "awareness/consciousness",
+    "example": "Das Umweltbewusstsein der Menschen wächst stetig.",
+    "theme": "Environment",
+    "difficulty": "B2"
+  },
+  {
+    "german": "das Potenzial",
+    "english": "potential",
+    "example": "Erneuerbare Energien haben ein großes Potenzial.",
+    "theme": "Environment",
+    "difficulty": "B2"
+  },
+  {
+    "german": "das Risiko",
+    "english": "risk",
+    "example": "Bei jeder Investition gibt es ein gewisses Risiko.",
+    "theme": "Economy & Business",
+    "difficulty": "B2"
+  },
+  {
+    "german": "das Verhalten",
+    "english": "behavior",
+    "example": "Unser Konsumverhalten beeinflusst die Umwelt.",
+    "theme": "Society",
+    "difficulty": "B2"
+  },
+  {
+    "german": "das Ziel",
+    "english": "goal/aim",
+    "example": "Das Ziel ist es, die CO2-Emissionen zu reduzieren.",
+    "theme": "Environment",
+    "difficulty": "B2"
+  },
+  {
+    "german": "erfordern",
+    "english": "to require",
+    "example": "Diese Aufgabe erfordert viel Konzentration.",
+    "theme": "Work",
+    "difficulty": "B2"
+  },
+  {
+    "german": "fördern",
+    "english": "to promote/support",
+    "example": "Die Regierung fördert den Ausbau erneuerbarer Energien.",
+    "theme": "Politics",
+    "difficulty": "B2"
+  },
+  {
+    "german": "gestalten",
+    "english": "to shape/design",
+    "example": "Wir können unsere Zukunft aktiv gestalten.",
+    "theme": "Society",
+    "difficulty": "B2"
+  },
+  {
+    "german": "sich engagieren",
+    "english": "to get involved/commit oneself",
+    "example": "Viele Menschen engagieren sich für den Klimaschutz.",
+    "theme": "Society",
+    "difficulty": "B2"
+  },
+  {
+    "german": "umsetzen",
+    "english": "to implement",
+    "example": "Die neuen Regelungen werden nächsten Monat umgesetzt.",
+    "theme": "Work",
+    "difficulty": "B2"
+  },
+  {
+    "german": "berücksichtigen",
+    "english": "to consider/take into account",
+    "example": "Man muss alle Faktoren berücksichtigen.",
+    "theme": "General",
+    "difficulty": "B2"
+  },
+  {
+    "german": "bewerten",
+    "english": "to evaluate/assess",
+    "example": "Die Leistung der Schüler wird regelmäßig bewertet.",
+    "theme": "Education",
+    "difficulty": "B2"
+  },
+  {
+    "german": "ermöglichen",
+    "english": "to enable/make possible",
+    "example": "Moderne Technologie ermöglicht schnelle Kommunikation.",
+    "theme": "Technology",
+    "difficulty": "B2"
+  },
+  {
+    "german": "verhindern",
+    "english": "to prevent",
+    "example": "Wir müssen weitere Umweltschäden verhindern.",
+    "theme": "Environment",
+    "difficulty": "B2"
+  },
+  {
+    "german": "zunehmen",
+    "english": "to increase",
+    "example": "Die Zahl der Touristen nimmt jedes Jahr zu.",
+    "theme": "General",
+    "difficulty": "B2"
+  },
+  {
+    "german": "erfolgreich",
+    "english": "successful",
+    "example": "Das Projekt war sehr erfolgreich.",
+    "theme": "Work",
+    "difficulty": "B2"
+  },
+  {
+    "german": "nachhaltig",
+    "english": "sustainable",
+    "example": "Wir brauchen nachhaltige Lösungen für unsere Probleme.",
+    "theme": "Environment",
+    "difficulty": "B2"
+  },
+  {
+    "german": "umfassend",
+    "english": "comprehensive",
+    "example": "Wir benötigen eine umfassende Analyse der Situation.",
+    "theme": "General",
+    "difficulty": "B2"
+  },
+  {
+    "german": "wesentlich",
+    "english": "essential/significant",
+    "example": "Das ist ein wesentlicher Unterschied.",
+    "theme": "General",
+    "difficulty": "B2"
+  },
+  {
+    "german": "zuständig",
+    "english": "responsible/in charge",
+    "example": "Wer ist für dieses Projekt zuständig?",
+    "theme": "Work",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Arbeitslosigkeit",
+    "english": "unemployment",
+    "example": "Die Arbeitslosigkeit ist in einigen Regionen sehr hoch.",
+    "theme": "Economy & Business",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Bildung",
+    "english": "education",
+    "example": "Bildung ist der Schlüssel zu einer besseren Zukunft.",
+    "theme": "Education",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Einwanderung",
+    "english": "immigration",
+    "example": "Die Einwanderung ist ein kontroverses politisches Thema.",
+    "theme": "Society",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Gleichberechtigung",
+    "english": "equal rights/equality",
+    "example": "Gleichberechtigung von Mann und Frau ist wichtig.",
+    "theme": "Society",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Gesundheit",
+    "english": "health",
+    "example": "Gesundheit ist das wichtigste Gut des Menschen.",
+    "theme": "Health",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Integration",
+    "english": "integration",
+    "example": "Die Integration von Migranten ist eine wichtige Aufgabe.",
+    "theme": "Society",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Karriere",
+    "english": "career",
+    "example": "Sie hat eine erfolgreiche Karriere als Ärztin gemacht.",
+    "theme": "Work",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Lösung",
+    "english": "solution",
+    "example": "Wir müssen gemeinsam eine Lösung finden.",
+    "theme": "General",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Möglichkeit",
+    "english": "possibility/opportunity",
+    "example": "Es gibt viele Möglichkeiten, Deutsch zu lernen.",
+    "theme": "General",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Reduzierung",
+    "english": "reduction",
+    "example": "Die Reduzierung von Plastikmüll ist notwendig.",
+    "theme": "Environment",
+    "difficulty": "B2"
+  },
+  {
+    "german": "die Ressource",
+    "english": "resource",
+    "example": "Natürliche Ressourcen werden immer knapper.",
+    "theme": "Environment",
+    "difficulty": "B2"
+  }
+]

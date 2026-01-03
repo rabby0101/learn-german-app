@@ -1,0 +1,503 @@
+{
+    "examInfo": {
+        "title": "B1 Lesen - Modellsatz",
+        "totalTime": 65,
+        "totalQuestions": 30,
+        "passThreshold": 60,
+        "source": "Goethe-Institut / ÖSD"
+    },
+    "parts": [
+        {
+            "id": "teil1",
+            "partNumber": 1,
+            "title": "Teil 1: Korrespondenz lesen",
+            "instructions": "Lesen Sie den Text und die Aufgaben 1 bis 6 dazu. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+            "timeLimit": 10,
+            "text": "SusannesAlltagsBlog.at\nMein Alltag, meine Gedanken, mein Leben ...\n\nDonnerstag, den 23. Juni\n\nWas mir heute passiert ist, das glaubt mir keiner: Als ich zu Mittag nichts ahnend in der Küche beim Kochen stand, läutete mein Handy. Eine Frauenstimme erklärte mir, dass meine Brieftasche in der Bankfiliale abgegeben worden war und ich sie dort abholen könnte. Mir wurde ganz heiß – mir war noch gar nicht aufgefallen, dass sie fehlte. Und ich hatte ja auch noch relativ viel Bargeld eingesteckt!\n\nSchnell holte ich meine Handtasche hervor und suchte nach der Brieftasche. Es stimmte! Auch nach längerem Kramen in der Tasche konnte ich sie nicht finden. Mein Geld war tatsächlich verschwunden!\n\nIch machte mich also auf den Weg zur Bank und überlegte, wo ich meine Brieftasche liegen gelassen hatte: Sicherlich im Supermarkt an der Kasse. Jedenfalls kam ich bei der Bank an und war schon gespannt darauf zu erfahren, wo meine Brieftasche gefunden worden war und natürlich, ob etwas fehlte. Die Bankangestellte teilte mir mit, dass ein junger Mann die Brieftasche abgegeben hatte.\n\nEr hatte sie auf dem Parkplatz vor dem Supermarkt gefunden und wollte sie eigentlich ins Fundbüro bringen – wie man es in so einem Fall eben macht. Der Weg dorthin war für ihn zu weit und so suchte er nach einer anderen Möglichkeit, mir die Brieftasche zurückzugeben. Das muss man sich einmal vorstellen: Er war so clever, dass er auf der Bankomatkarte nach meinem und dem Namen meiner Bank suchte … Die Bank würde ja die Kontaktdaten zu meinem Namen haben und könnte mich so anrufen. Er fuhr in die nächste Filiale meiner Bank und dank der Computervernetzung der Filialen konnte meine Telefonnummer schnell herausgefunden werden.\n\nDa stand ich nun mit meiner Brieftasche, die mir beim Verlassen des Supermarktes aus der Handtasche gerutscht sein muss. Zum Glück war alles noch da! Ich bin sooo froh, dass diese Episode so gut ausgegangen ist.\n\nNun weiß ich leider gar nicht, wie ich dem ehrlichen Finder danken kann. Vielleicht liest er ja diesen Blogeintrag oder es liest ihn jemand, dem er die Geschichte erzählt hat: „Vielen, vielen Dank, lieber Finder!“\n\nBis bald\neure Susanne",
+            "questions": [
+                {
+                    "id": "q1",
+                    "number": 1,
+                    "type": "true-false",
+                    "question": "Erst durch den Anruf bemerkte Susanne das Fehlen ihrer Brieftasche.",
+                    "correctAnswer": true,
+                    "explanation": "Richtig. Im Text steht: 'mir war noch gar nicht aufgefallen, dass sie fehlte' - erst durch den Anruf der Bank erfuhr sie davon."
+                },
+                {
+                    "id": "q2",
+                    "number": 2,
+                    "type": "true-false",
+                    "question": "Susanne glaubte, die Brieftasche beim Bezahlen vergessen zu haben.",
+                    "correctAnswer": true,
+                    "explanation": "Richtig. Sie überlegte: 'Sicherlich im Supermarkt an der Kasse.'"
+                },
+                {
+                    "id": "q3",
+                    "number": 3,
+                    "type": "true-false",
+                    "question": "Der Finder hatte die Brieftasche ins Fundbüro gebracht.",
+                    "correctAnswer": false,
+                    "explanation": "Falsch. Er wollte sie eigentlich ins Fundbüro bringen, aber der Weg war ihm zu weit, also brachte er sie zur Bank."
+                },
+                {
+                    "id": "q4",
+                    "number": 4,
+                    "type": "true-false",
+                    "question": "Die Telefonnummer der Bank war in der Brieftasche.",
+                    "correctAnswer": false,
+                    "explanation": "Falsch. Der Finder fand den Namen der Bank auf der Bankomatkarte and fuhr zur Filiale, um dort Susannes Telefonnummer zu bekommen."
+                },
+                {
+                    "id": "q5",
+                    "number": 5,
+                    "type": "true-false",
+                    "question": "In Susannes Brieftasche fehlte nichts.",
+                    "correctAnswer": true,
+                    "explanation": "Richtig. Im Text steht: 'Zum Glück war alles noch da!'"
+                },
+                {
+                    "id": "q6",
+                    "number": 6,
+                    "type": "true-false",
+                    "question": "Susanne konnte dem Finder persönlich für seine Ehrlichkeit danken.",
+                    "correctAnswer": false,
+                    "explanation": "Falsch. Sie schreibt: 'Nun weiß ich leider gar nicht, wie ich dem ehrlichen Finder danken kann.'"
+                }
+            ]
+        },
+        {
+            "id": "teil2",
+            "partNumber": 2,
+            "title": "Teil 2: Information und Argumentation verstehen",
+            "instructions": "Lesen Sie die Texte aus der Presse and die Aufgaben dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+            "timeLimit": 20,
+            "texts": [
+                {
+                    "id": "text2a",
+                    "title": "Ein Dorf für grüne Energie",
+                    "content": "Das Dorf Feldheim in Brandenburg macht sich unabhängig von Öl and Kohle. Seit Kurzem deckt das Dorf seinen kompletten Strombedarf and drei Viertel seines Wärmebedarfs aus erneuerbaren Energien. \"Das hier ist ein Musterprojekt\", sagt Energieexperte Dr. Michael Knape. Ziel der Wissenschaftler war es zu zeigen, dass es möglich ist, ein Dorf komplett mit erneuerbaren Energien zu versorgen and damit einen Beitrag zum Klimaschutz zu leisten. Tatsächlich: Die Bio-gasanlage des Dorfes, die mit Mais gefüttert wird, erzeugt genug Strom and Wärme für alle 130 Einwohner. Hinzu kommen 43 Windräder, die an manchen Tagen sogar mehr Strom produzieren, als die Feldheimer verbrauchen. Und auf den Hausdächern befinden sich Solaranlagen. \"Feldheim ist ein Beispiel dafür, wie die Energiewende tatsächlich funktionieren kann\", sagt Knape.\n\nNatürlich hat das Projektteam auch die Kosten im Blick. \"Der Feldheimer Strom ist landesweit der günstigste\", freut sich Bürgermeister Frank Pellmann. Der Landkreis Brandenburg plant deshalb weitere solcher Projekte, denn für die Energiewende muss die Bevölkerung dafür sein."
+                },
+                {
+                    "id": "text2b",
+                    "title": "Tour durch Murtens Geschichte",
+                    "content": "Mit der Rundfahrt „Zeitreise per Velo“ können Touristen das Städtchen Murten and seine Geschichte sportlich neu entdecken. Die Tour startet am Bahnhof von Murten, wo die sportlichen Teilnehmer auf das eigene oder ein gemietetes Velo steigen. Die weniger sportlichen and jene, die es schon immer ausprobieren wollten, steigen aufs Elektro-Velo. Dieses kann ebenfalls am Bahnhof gemietet werden.\n\nVom Bahnhof führt der Weg auf den historischen Hügel, wo Karl der Kühne sein Hauptquartier aufbaute, bevor sein Heer im Jahr 1476 besiegt wurde. Die Sportlichen kommen bei der Fahrt auf den Hügel ins Schwitzen, während die E-Biker ganz einfach den Elektromotor nutzen. Oben angekommen kann man die wunderbare Aussicht auf den Murtensee genießen.\n\n\"Mit der Velorundfahrt für Gruppen wollen wir unser Angebot für aktive Radfahrer erweitern\", sagt der Geschäftsführer von Murten Tourismus. Damit soll sowohl das Gebiet für Velo-Touristen interessant gemacht als auch der Trend zum E-Bike unterstützt werden."
+                }
+            ],
+            "questions": [
+                {
+                    "id": "q7",
+                    "number": 7,
+                    "type": "multiple-choice",
+                    "question": "Im Text geht es um ein Dorf, das …",
+                    "options": [
+                        "a) komplett auf Windenergie setzt.",
+                        "b) durch erneuerbare Energien unabhängig wird.",
+                        "c) eine neue Biogasanlage baut."
+                    ],
+                    "correctAnswer": 1,
+                    "explanation": "b) ist richtig. Das Dorf Feldheim deckt seinen Strombedarf and Wärmebedarf aus erneuerbaren Energien (Biogas, Wind, Solar)."
+                },
+                {
+                    "id": "q8",
+                    "number": 8,
+                    "type": "multiple-choice",
+                    "question": "In Feldheim …",
+                    "options": [
+                        "a) wird mehr Strom produziert als verbraucht.",
+                        "b) gibt es nur Windräder.",
+                        "c) leben mehr als 200 Einwohner."
+                    ],
+                    "correctAnswer": 0,
+                    "explanation": "a) ist richtig. Im Text: 'die an manchen Tagen sogar mehr Strom produzieren, als die Feldheimer verbrauchen.'"
+                },
+                {
+                    "id": "q9",
+                    "number": 9,
+                    "type": "multiple-choice",
+                    "question": "Im Landkreis Brandenburg …",
+                    "options": [
+                        "a) gibt es Widerstand gegen erneuerbare Energien.",
+                        "b) sind weitere ähnliche Projekte geplant.",
+                        "c) ist der Strom teurer als anderswo."
+                    ],
+                    "correctAnswer": 1,
+                    "explanation": "b) ist richtig. 'Der Landkreis Brandenburg plant deshalb weitere solcher Projekte.'"
+                },
+                {
+                    "id": "q10",
+                    "number": 10,
+                    "type": "multiple-choice",
+                    "question": "In diesem Text geht es darum, dass …",
+                    "options": [
+                        "a) die Geschichte von Murten neu erzählt wird.",
+                        "b) es ein neues Tourismus-Angebot gibt.",
+                        "c) man in Murten neue Velo-Wege bauen will."
+                    ],
+                    "correctAnswer": 1,
+                    "explanation": "b) ist richtig. Es wird eine neue Velo-Rundfahrt als Tourismus-Angebot vorgestellt."
+                },
+                {
+                    "id": "q11",
+                    "number": 11,
+                    "type": "multiple-choice",
+                    "question": "Für die Rundfahrt ...",
+                    "options": [
+                        "a) braucht man ein eigenes Velo.",
+                        "b) muss man nicht sportlich sein.",
+                        "c) sollte man mit der Bahn anreisen."
+                    ],
+                    "correctAnswer": 1,
+                    "explanation": "b) ist richtig. Weniger sportliche Teilnehmer können ein E-Bike nutzen."
+                },
+                {
+                    "id": "q12",
+                    "number": 12,
+                    "type": "multiple-choice",
+                    "question": "Der Geschäftsführer von Murten Tourismus will, dass ...",
+                    "options": [
+                        "a) es in Murten mehr Stadtführungen für Gruppen gibt.",
+                        "b) die Leute normale Velos statt E-Bikes benutzen.",
+                        "c) mehr Velo-Touristen in die Region kommen."
+                    ],
+                    "correctAnswer": 2,
+                    "explanation": "c) ist richtig. Er will 'das Gebiet für Velo-Touristen interessant' machen."
+                }
+            ]
+        },
+        {
+            "id": "teil3",
+            "partNumber": 3,
+            "title": "Teil 3: Zur Orientierung lesen",
+            "instructions": "Lesen Sie die Situationen 13 bis 19 and die Anzeigen A bis J. Wählen Sie: Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Für eine Situation gibt es keine passende Anzeige (= 0).",
+            "timeLimit": 10,
+            "context": "Nach dem Ende Ihres gemeinsamen Deutschkurses möchten einige Ihrer Kolleginnen and Kollegen weiter Deutsch lernen and suchen dafür passende Möglichkeiten.",
+            "situations": [
+                {
+                    "id": "s13",
+                    "number": 13,
+                    "text": "Leon möchte im Sommer im Tourismus-Bereich arbeiten, um sein Deutsch zu verbessern."
+                },
+                {
+                    "id": "s14",
+                    "number": 14,
+                    "text": "Giovanna sucht deutsche Hörbücher, damit sie unterwegs Deutsch lernen kann."
+                },
+                {
+                    "id": "s15",
+                    "number": 15,
+                    "text": "Mirjeta hat keine Zeit für einen Kurs, möchte sich aber regelmäßig über Neuigkeiten aus Deutschland informieren."
+                },
+                {
+                    "id": "s16",
+                    "number": 16,
+                    "text": "Maria möchte am Computer Deutsch lernen."
+                },
+                {
+                    "id": "s17",
+                    "number": 17,
+                    "text": "Susan liest am liebsten Literatur, wenn die Texte nicht zu schwierig sind."
+                },
+                {
+                    "id": "s18",
+                    "number": 18,
+                    "text": "Miroslav will den schriftlichen Ausdruck verbessern, weil er im Studium viel schreiben muss."
+                },
+                {
+                    "id": "s19",
+                    "number": 19,
+                    "text": "Juan kann nur am Abend einen Kurs besuchen."
+                }
+            ],
+            "advertisements": [
+                {
+                    "id": "A",
+                    "title": "Schweizer Autoren, leicht gemacht",
+                    "content": "Neu im Verlagsprogramm: Nach 100 Lernstunden schon literarische Kurzgeschichten, Romane and Gedichte lesen? Kein Problem! Die Reihe „Schweizer Autoren, leicht gemacht“ bietet Deutschlernern vereinfachte Originalversionen für uneingeschränktes Lesevergnügen. www.schweizer-leseverlag.ch"
+                },
+                {
+                    "id": "B",
+                    "title": "Trainingsprogramm Deutsch",
+                    "content": "Sie wollen Ihre Sprachkenntnisse verbessern, haben aber keine Zeit für Kurse? Dann lernen Sie Deutsch im Internet! Unser Lernportal bietet Ihnen gratis: 10 Kurslektionen für Anfänger and Fortgeschrittene, Erklärungen zur Grammatik, alle Übungen online verfügbar. www.sprachenlernen.de"
+                },
+                {
+                    "id": "C",
+                    "title": "Deutsch in der Schweiz",
+                    "content": "Unser Angebot: Intensivkurse mit 20-30 Wochenstunden, Schreibkurse (auch als Fernstudium!), Sommerkurse für Jugendliche and Erwachsene (mit Freizeitprogramm), Kurs: Deutsch im Hotel. Wir bieten nur Tageskurse an! www.deutschinderschweiz.ch"
+                },
+                {
+                    "id": "D",
+                    "title": "Job & Sprache-Net",
+                    "content": "Wir bieten Jobs für Deutschlernende in Deutschland, Österreich and in der Schweiz. Perfektionieren Sie Ihre Sprachkenntnisse and sammeln Sie Erfahrungen in den Arbeitsbereichen Hotel and Restaurant. Dauer: bis zu 3 Monate (Juni – August). Kosten für Unterkunft and Verpflegung werden übernommen. www.jobundsprache-net.com"
+                },
+                {
+                    "id": "E",
+                    "title": "Sprachschule ORION sucht Trainer",
+                    "content": "Sprachschule ORION sucht engagierte Trainer and Trainerinnen (Vollzeit). Kurszeiten von 8:00–17:00 h, Niveaus A1–C1, allgemeine and berufsbezogene Sprachkurse (z.B. Deutsch für den Tourismus). Bewerbungen an: office@deutschintensiv.de"
+                },
+                {
+                    "id": "F",
+                    "title": "Deutsch erLesen - Magazin",
+                    "content": "Das Magazin Deutsch erLesen richtet sich an Deutschinteressierte im In- and Ausland. Es erscheint einmal im Monat and enthält aktuelle Originalartikel aus der deutschen Presse. Deutschland erfahren & Deutsch lernen! Bestellen Sie noch heute Ihr Probeexemplar: info@deutsch-erlesen.de"
+                },
+                {
+                    "id": "G",
+                    "title": "Verlag für deutsche Literatur sucht Lektor",
+                    "content": "Verlag für deutsche Literatur sucht Lektor/Lektorin für die Auswahl and Korrektur von Werken junger deutscher Autoren. Unser Verlagsprogramm umfasst Romane, Gedichtbände and Hörbücher. Schicken Sie Ihre Bewerbung an: junge-literatur@berlin.de"
+                },
+                {
+                    "id": "H",
+                    "title": "Deutsch-Intensivkurse - Deutsch in Linz",
+                    "content": "Mo bis Fr von 9:30–13h and von 14:00–17h. Kurse für Berufstätige: Für Berufstätige and Vielbeschäftigte bieten wir flexible Kurszeiten an (Termine nach Wunsch). Online-Einstufungstest auf www.deutschinlinz-schule.at"
+                },
+                {
+                    "id": "I",
+                    "title": "Sprache and Kultur in Wien",
+                    "content": "Deutschkurse ganzjährig! Spezialangebote für den Sommer. Infos unter: www.sprache-kultur@aon.at"
+                },
+                {
+                    "id": "J",
+                    "title": "DIGITAL LEARNING - Computerprogramm",
+                    "content": "Neues Computerprogramm von DIGITAL LEARNING für Büromanagement and Buchhaltung in englischer and deutscher Sprache. Ab sofort im Buchhandel erhältlich. Infos: software@digital-learning.net"
+                }
+            ],
+            "questions": [
+                {
+                    "id": "q13",
+                    "number": 13,
+                    "type": "matching",
+                    "situation": "Leon möchte im Sommer im Tourismus-Bereich arbeiten, um sein Deutsch zu verbessern.",
+                    "correctAnswer": "D",
+                    "explanation": "D) Job & Sprache-Net bietet Jobs im Hotel- and Restaurantbereich (Tourismus) von Juni bis August (Sommer)."
+                },
+                {
+                    "id": "q14",
+                    "number": 14,
+                    "type": "matching",
+                    "situation": "Giovanna sucht deutsche Hörbücher, damit sie unterwegs Deutsch lernen kann.",
+                    "correctAnswer": "0",
+                    "explanation": "Keine passende Anzeige. G) erwähnt zwar Hörbücher, aber es ist eine Stellenanzeige für einen Lektor, nicht Hörbücher zum Verkauf."
+                },
+                {
+                    "id": "q15",
+                    "number": 15,
+                    "type": "matching",
+                    "situation": "Mirjeta hat keine Zeit für einen Kurs, möchte sich aber regelmäßig über Neuigkeiten aus Deutschland informieren.",
+                    "correctAnswer": "F",
+                    "explanation": "F) Deutsch erLesen ist ein monatliches Magazin mit aktuellen Artikeln aus der deutschen Presse."
+                },
+                {
+                    "id": "q16",
+                    "number": 16,
+                    "type": "matching",
+                    "situation": "Maria möchte am Computer Deutsch lernen.",
+                    "correctAnswer": "B",
+                    "explanation": "B) Trainingsprogramm Deutsch ist ein Online-Lernportal mit Kurslektionen and Übungen im Internet."
+                },
+                {
+                    "id": "q17",
+                    "number": 17,
+                    "type": "matching",
+                    "situation": "Susan liest am liebsten Literatur, wenn die Texte nicht zu schwierig sind.",
+                    "correctAnswer": "A",
+                    "explanation": "A) Schweizer Autoren, leicht gemacht bietet vereinfachte literarische Texte für Deutschlerner."
+                },
+                {
+                    "id": "q18",
+                    "number": 18,
+                    "type": "matching",
+                    "situation": "Miroslav will den schriftlichen Ausdruck verbessern, weil er im Studium viel schreiben muss.",
+                    "correctAnswer": "C",
+                    "explanation": "C) Deutsch in der Schweiz bietet Schreibkurse, auch als Fernstudium."
+                },
+                {
+                    "id": "q19",
+                    "number": 19,
+                    "type": "matching",
+                    "situation": "Juan kann nur am Abend einen Kurs besuchen.",
+                    "correctAnswer": "H",
+                    "explanation": "H) Deutsch in Linz bietet flexible Kurszeiten für Berufstätige (Termine nach Wunsch)."
+                }
+            ]
+        },
+        {
+            "id": "teil4",
+            "partNumber": 4,
+            "title": "Teil 4: Information and Argumentation verstehen",
+            "instructions": "Lesen Sie die Texte 20 bis 26. Wählen Sie: Ist die Person für ein Verbot?",
+            "timeLimit": 15,
+            "context": "In einer Zeitschrift lesen Sie Kommentare zu einem Artikel über das Verbot von Videospielen, in denen viel Gewalt vorkommt (sogenannte „Killerspiele“).",
+            "opinions": [
+                {
+                    "id": "opinion20",
+                    "number": 20,
+                    "author": "Stefan, 19, Graz",
+                    "text": "Ich könnte mir vorstellen, dass ein Verbot die gegenteilige Wirkung hätte, denn ein verbotenes Spiel ist doch noch interessanter als ein nicht verbotenes! Außerdem ist es gar nicht möglich, alle Killerspiele abzuschaffen, weil es davon schon viel zu viele gibt. Mein Fazit: Warum „Killerspiele“ verbieten, wenn es im Endeffekt sowieso alle spielen and das Ganze gerade durch ein Verbot noch interessanter wird?"
+                },
+                {
+                    "id": "opinion21",
+                    "number": 21,
+                    "author": "Dagmar, 23, Leipzig",
+                    "text": "Wer entscheidet letztlich darüber, welche Spiele man nicht braucht? Dürfen diese Menschen dann auch darüber entscheiden, welche Bücher, Filme oder Musik wir nicht brauchen? Viel wichtiger ist es doch, dass Kinder and Jugendliche lernen, selbst zwischen virtueller and realer Gewalt zu unterscheiden!"
+                },
+                {
+                    "id": "opinion22",
+                    "number": 22,
+                    "author": "Kathleen, 49, Cuxhaven",
+                    "text": "„Töten auf Probe“ soll erlaubt sein? Das bedeutet: Mal schnell zu üben, wie man jemanden umbringt, ist eine Freizeitbeschäftigung. Wie zynisch kann man sein? Nicht jeder wird zum Glück zum Monster, der sich mit so viel Gewalt and Zerstörung beschäftigt. Die Einstellung dahinter ist aber Ausdruck einer unglaublichen Gleichgültigkeit. Das muss man stoppen, and zwar schnell."
+                },
+                {
+                    "id": "opinion23",
+                    "number": 23,
+                    "author": "Marius, 34, St. Gallen",
+                    "text": "Ich spiele sogenannte Killerspiele wie CaDu seit bald drei Jahren regelmässig. Ich habe eine kleine Tochter, eine Frau and einen Job and spiele für den Ausgleich. Nur weil es mal dazu kommt, dass einer auf dieser Welt das Spiel als Realität sieht and durchdreht, müssen dann all die anderen ein Verbot hinnehmen? Es wäre besser, die Altersbeschränkung auf 18 Jahre festzulegen and sie auch strikt einzuhalten."
+                },
+                {
+                    "id": "opinion24",
+                    "number": 24,
+                    "author": "Jonny, 21, Berlin",
+                    "text": "„Killerspiele“ machen schnell aggressiv and man wird davon abhängig. Außerdem besteht die Gefahr, dass jemand nicht mit solchen Spielen umgehen kann and zum Nachahmungstäter wird. Das sind nur zwei Gründe, warum man gegen diese Spiele endlich etwas tun sollte."
+                },
+                {
+                    "id": "opinion25",
+                    "number": 25,
+                    "author": "Robert, 18, Winterthur",
+                    "text": "In dieser Diskussion fehlt immer die genaue Kenntnis! Meistens ist es bei sogenannten „Killerspielen“ nämlich so, dass man in einem Team spielt. Ein solches Spiel stärkt also den Teamgeist. Außerdem steht die Taktik im Vordergrund and nicht eine bestimmte Methode, jemanden umzubringen. So wird das taktische bzw. logische Denken gefördert!"
+                },
+                {
+                    "id": "opinion26",
+                    "number": 26,
+                    "author": "Marinette, 38, Frankfurt",
+                    "text": "Ich denke, dass gewisse Situationen oder Dinge einen Menschen dazu bringen können, etwas zu tun, das er sonst nicht tun würde. Das kann gerade bei sogenannten „Killerspielen“ der Fall sein. Deshalb scheint mir ein Verbot sinnvoll zu sein, auch wenn so ein Verbot allein wahrscheinlich nicht viel nützt, denn Killerspiele sind ja nur eine ‚Inspirationsquelle‘ für Gewalt."
+                }
+            ],
+            "questions": [
+                {
+                    "id": "q20",
+                    "number": 20,
+                    "type": "yes-no",
+                    "question": "Ist Stefan für ein Verbot?",
+                    "personName": "Stefan",
+                    "correctAnswer": false,
+                    "explanation": "Nein. Er argumentiert, dass ein Verbot die gegenteilige Wirkung hätte and nicht umsetzbar ist."
+                },
+                {
+                    "id": "q21",
+                    "number": 21,
+                    "type": "yes-no",
+                    "question": "Ist Dagmar für ein Verbot?",
+                    "personName": "Dagmar",
+                    "correctAnswer": false,
+                    "explanation": "Nein. Sie fragt kritisch, wer das Recht hat zu entscheiden, and betont, dass Kinder lernen sollten zu unterscheiden."
+                },
+                {
+                    "id": "q22",
+                    "number": 22,
+                    "type": "yes-no",
+                    "question": "Ist Kathleen für ein Verbot?",
+                    "personName": "Kathleen",
+                    "correctAnswer": true,
+                    "explanation": "Ja. Sie schreibt: 'Das muss man stoppen, and zwar schnell.'"
+                },
+                {
+                    "id": "q23",
+                    "number": 23,
+                    "type": "yes-no",
+                    "question": "Ist Marius für ein Verbot?",
+                    "personName": "Marius",
+                    "correctAnswer": false,
+                    "explanation": "Nein. Er spielt selbst and plädiert für Altersbeschränkungen statt eines Verbots."
+                },
+                {
+                    "id": "q24",
+                    "number": 24,
+                    "type": "yes-no",
+                    "question": "Ist Jonny für ein Verbot?",
+                    "personName": "Jonny",
+                    "correctAnswer": true,
+                    "explanation": "Ja. Er nennt Gründe, 'warum man gegen diese Spiele endlich etwas tun sollte.'"
+                },
+                {
+                    "id": "q25",
+                    "number": 25,
+                    "type": "yes-no",
+                    "question": "Ist Robert für ein Verbot?",
+                    "personName": "Robert",
+                    "correctAnswer": false,
+                    "explanation": "Nein. Er verteidigt die Spiele als teamfördernd and taktisch wertvoll."
+                },
+                {
+                    "id": "q26",
+                    "number": 26,
+                    "type": "yes-no",
+                    "question": "Ist Marinette für ein Verbot?",
+                    "personName": "Marinette",
+                    "correctAnswer": true,
+                    "explanation": "Ja. Sie schreibt: 'Deshalb scheint mir ein Verbot sinnvoll zu sein.'"
+                }
+            ]
+        },
+        {
+            "id": "teil5",
+            "partNumber": 5,
+            "title": "Teil 5: Schriftliche Anweisungen verstehen",
+            "instructions": "Lesen Sie die Aufgaben 27 bis 30 and den Text dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+            "timeLimit": 10,
+            "context": "Sie informieren sich über die Hausordnung des Dresdner Berufsbildungszentrums BZW, in dem Sie einen Kurs gebucht haben.",
+            "text": "HAUSORDNUNG\n\nUnterrichtszeiten: Die vereinbarten Unterrichtszeiten sind verbindlich. Ist die Lehrperson zehn Minuten nach Unterrichtsbeginn nicht da, informiert die Klassenvertretung das Sekretariat.\n\nOrdnung: In sämtlichen Räumen and Anlagen unserer Schule ist auf Ordnung and Sauberkeit zu achten. Schulräume, Einrichtungen and Anlagen sind sorgfältig zu benützen. Außerhalb der Unterrichtszeiten dürfen sich Lernende nicht in den Klassenräumen aufhalten. Es ist untersagt, in den Klassenräumen etwas an die Wände zu kleben oder zu schreiben and Schulmöbel in andere Räume zu bringen. Mitarbeitende and Lernende, die Schäden feststellen, melden diese dem Sekretariat.\n\nStörungen: Mitarbeitende and Lernende sorgen dafür, dass der Schulbetrieb nicht gestört wird.\n\nAlkohol- and Drogenkonsum: Der Konsum von Alkohol, illegalen Drogen sowie anderen psychoaktiven Substanzen ist auf dem gesamten Schulareal and während schulischer Veranstaltungen (einschließlich aller Pausen) verboten. In Ausnahmefällen kann die Schulleitung den Konsum von Alkohol erlauben.\n\nRauchen: Rauchen ist nur im Freien beziehungsweise in den dafür vorgesehenen Zonen gestattet. Wir bitten darum, die aufgestellten Aschenbecher zu benutzen.\n\nDiebstahl: Es empfiehlt sich, Wertsachen and Bargeld sorgfältig aufzubewahren. Die Schule stellt den Lernenden and Mitarbeitenden kostenlos Schließfächer zur Verfügung. Für verlorene Schlüssel wird eine Gebühr von Euro 50,- erhoben. Die Schule übernimmt für Diebstähle keine Haftung.\n\nFundgegenstände: Fundgegenstände bitte im Sekretariat abgeben.\n\nParkplätze: Auf dem Schulareal stehen keine Gratis-Autoparkplätze zur Verfügung. Fahrräder müssen in den dafür vorgesehenen Fahrradkeller gebracht and abgeschlossen werden. Mopeds and Motorräder sind auf dem Schulareal nicht erlaubt.",
+            "questions": [
+                {
+                    "id": "q27",
+                    "number": 27,
+                    "type": "multiple-choice",
+                    "question": "Schüler …",
+                    "options": [
+                        "a) dürfen keine Fahrräder mit zur Schule bringen.",
+                        "b) dürfen ihre Fahrräder auf den Schulhof stellen.",
+                        "c) müssen ihre Fahrräder in einen speziellen Raum stellen."
+                    ],
+                    "correctAnswer": 2,
+                    "explanation": "c) ist richtig. 'Fahrräder müssen in den dafür vorgesehenen Fahrradkeller gebracht and abgeschlossen werden.'"
+                },
+                {
+                    "id": "q28",
+                    "number": 28,
+                    "type": "multiple-choice",
+                    "question": "Für die Klassenräume des BZW gilt:",
+                    "options": [
+                        "a) Schüler dürfen keine Poster aufhängen.",
+                        "b) Schüler müssen dort selber aufräumen.",
+                        "c) Schüler können dort nach dem Unterricht lernen."
+                    ],
+                    "correctAnswer": 0,
+                    "explanation": "a) ist richtig. 'Es ist untersagt, in den Klassenräumen etwas an die Wände zu kleben.'"
+                },
+                {
+                    "id": "q29",
+                    "number": 29,
+                    "type": "multiple-choice",
+                    "question": "Um die verschließbaren Fächer benutzen zu können, muss man …",
+                    "options": [
+                        "a) einen Schlüssel im Sekretariat verlangen.",
+                        "b) einmalig 50,- Euro zahlen.",
+                        "c) Schüler sein oder im BZW arbeiten."
+                    ],
+                    "correctAnswer": 2,
+                    "explanation": "c) ist richtig. 'Die Schule stellt den Lernenden and Mitarbeitenden kostenlos Schließfächer zur Verfügung.' Die 50 Euro sind nur für verlorene Schlüssel."
+                },
+                {
+                    "id": "q30",
+                    "number": 30,
+                    "type": "multiple-choice",
+                    "question": "Das Trinken von Alkohol …",
+                    "options": [
+                        "a) kann von der Schulleitung genehmigt werden.",
+                        "b) muss der Lehrperson gemeldet werden.",
+                        "c) ist ohne Ausnahme verboten."
+                    ],
+                    "correctAnswer": 0,
+                    "explanation": "a) ist richtig. 'In Ausnahmefällen kann die Schulleitung den Konsum von Alkohol erlauben.'"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,272 @@
+{
+  "general": {
+    "title": "Allgemeine Tipps für die B2-Prüfung",
+    "tips": [
+      {
+        "icon": "📅",
+        "title": "Zeitmanagement",
+        "description": "Üben Sie unter realistischen Zeitbedingungen. Achten Sie darauf, für jede Aufgabe genug Zeit einzuplanen und Zeit für die Überprüfung zu reservieren."
+      },
+      {
+        "icon": "📚",
+        "title": "Regelmäßiges Üben",
+        "description": "Konsistenz ist der Schlüssel. Üben Sie lieber täglich 30 Minuten als einmal pro Woche 3 Stunden."
+      },
+      {
+        "icon": "🎯",
+        "title": "Schwächen identifizieren",
+        "description": "Analysieren Sie, welche Bereiche Ihnen schwerfallen (z.B. Grammatik, Wortschatz, Hörverständnis) und fokussieren Sie sich gezielt darauf."
+      },
+      {
+        "icon": "✍️",
+        "title": "Fehleranalyse",
+        "description": "Führen Sie ein Notizbuch mit häufigen Fehlern. Wiederholen Sie diese Bereiche regelmäßig, um sie zu festigen."
+      },
+      {
+        "icon": "🗣️",
+        "title": "Aktive Nutzung",
+        "description": "Sprechen und schreiben Sie so viel wie möglich auf Deutsch. Suchen Sie Sprachpartner oder Tandem-Partner."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Lesen (Leseverstehen)",
+    "duration": "65 Minuten",
+    "parts": [
+      {
+        "part": "Teil 1",
+        "description": "Längerer Text (450-550 Wörter) mit 6 Multiple-Choice-Fragen",
+        "tips": [
+          "Lesen Sie zuerst die Fragen, um zu wissen, worauf Sie achten müssen",
+          "Suchen Sie Schlüsselwörter im Text",
+          "Achten Sie auf Synonyme und Umschreibungen",
+          "Alle Antworten finden Sie im Text - raten Sie nicht"
+        ]
+      },
+      {
+        "part": "Teil 2",
+        "description": "Text mit 6 Lücken zum Einfügen von Satzteilen",
+        "tips": [
+          "Lesen Sie den ganzen Text zuerst",
+          "Achten Sie auf Kohärenz und logische Zusammenhänge",
+          "Grammatikalische Hinweise (z.B. Pronomen, Konnektoren) helfen bei der Zuordnung",
+          "Überprüfen Sie, ob der Satz grammatikalisch korrekt ist"
+        ]
+      },
+      {
+        "part": "Teil 3",
+        "description": "Mehrere kurze Texte zu einem Thema",
+        "tips": [
+          "Scannen Sie die Texte schnell nach spezifischen Informationen",
+          "Vergleichen Sie die Aussagen sorgfältig",
+          "Achten Sie auf Details und Nuancen",
+          "Zeitmanagement ist hier besonders wichtig"
+        ]
+      }
+    ],
+    "strategies": [
+      "Erweitern Sie Ihren Wortschatz durch regelmäßiges Lesen deutscher Zeitungen und Magazine",
+      "Üben Sie verschiedene Lesetechniken: Scanning, Skimming, detailliertes Lesen",
+      "Achten Sie auf Textkohärenz und logische Verbindungen",
+      "Lernen Sie gängige Konnektoren und ihre Bedeutungen"
+    ]
+  },
+  "listening": {
+    "title": "Hören (Hörverstehen)",
+    "duration": "40 Minuten",
+    "parts": [
+      {
+        "part": "Teil 1",
+        "description": "Interview oder Gespräch (einmal hören)",
+        "tips": [
+          "Konzentrieren Sie sich auf das Hauptthema und die Hauptaussagen",
+          "Achten Sie auf die Meinungen und Standpunkte der Sprecher",
+          "Notieren Sie Schlüsselwörter während des Hörens",
+          "Sie hören den Text nur einmal - bleiben Sie konzentriert"
+        ]
+      },
+      {
+        "part": "Teil 2",
+        "description": "Vortrag oder Präsentation (zweimal hören)",
+        "tips": [
+          "Beim ersten Hören: Verstehen Sie die Hauptidee und Struktur",
+          "Beim zweiten Hören: Konzentrieren Sie sich auf Details",
+          "Achten Sie auf Signalwörter (erstens, zweitens, jedoch, trotzdem)",
+          "Nutzen Sie die Pause zwischen den Durchgängen zum Überprüfen"
+        ]
+      }
+    ],
+    "strategies": [
+      "Hören Sie regelmäßig deutsche Podcasts, Nachrichten und Videos",
+      "Üben Sie mit verschiedenen Akzenten und Sprechgeschwindigkeiten",
+      "Machen Sie sich mit dem Prüfungsformat vertraut",
+      "Panik vermeiden: Wenn Sie etwas nicht verstehen, konzentrieren Sie sich auf den nächsten Teil"
+    ]
+  },
+  "writing": {
+    "title": "Schreiben (Schriftlicher Ausdruck)",
+    "duration": "75 Minuten",
+    "parts": [
+      {
+        "part": "Teil 1",
+        "description": "Formeller Brief oder E-Mail (ca. 150 Wörter)",
+        "tips": [
+          "Achten Sie auf die richtige Briefform: Anrede, Betreff, Grußformel",
+          "Verwenden Sie formelle Sprache und höfliche Formulierungen",
+          "Nutzen Sie Konjunktiv II für höfliche Bitten (würde, könnte, hätte)",
+          "Strukturieren Sie klar: Einleitung, Hauptteil, Schluss",
+          "Gängige Formulierungen: 'Sehr geehrte...', 'Mit freundlichen Grüßen', 'Ich würde mich freuen...'"
+        ]
+      },
+      {
+        "part": "Teil 2",
+        "description": "Meinungsäußerung zu einem Thema (ca. 180 Wörter)",
+        "tips": [
+          "Nehmen Sie klar Stellung zum Thema",
+          "Strukturieren Sie: Einleitung, Pro-Argumente, Contra-Argumente, Fazit",
+          "Verwenden Sie Konnektoren: einerseits...andererseits, jedoch, trotzdem, außerdem",
+          "Geben Sie konkrete Beispiele und Begründungen",
+          "Achten Sie auf abwechslungsreiche Satzstrukturen"
+        ]
+      }
+    ],
+    "strategies": [
+      "Üben Sie verschiedene Texttypen: Briefe, E-Mails, Meinungsaufsätze, Berichte",
+      "Lernen Sie Standard-Formulierungen für formelle Briefe auswendig",
+      "Achten Sie auf Wortanzahl: Zu kurz oder zu lang kann Punktabzug bedeuten",
+      "Reservieren Sie 5-10 Minuten zum Überprüfen auf Grammatik- und Rechtschreibfehler",
+      "Üben Sie unter Zeitdruck",
+      "Vermeiden Sie Umgangssprache in formellen Texten"
+    ],
+    "commonPhrases": {
+      "formal": [
+        "Sehr geehrte Damen und Herren",
+        "Ich würde mich freuen, von Ihnen zu hören",
+        "Vielen Dank im Voraus",
+        "Mit freundlichen Grüßen",
+        "Ich möchte mich bei Ihnen beschweren über...",
+        "Ich wende mich an Sie, weil..."
+      ],
+      "opinion": [
+        "Meiner Meinung nach...",
+        "Ich bin der Ansicht, dass...",
+        "Einerseits...andererseits...",
+        "Man könnte argumentieren, dass...",
+        "Es lässt sich nicht leugnen, dass...",
+        "Zusammenfassend kann man sagen..."
+      ]
+    }
+  },
+  "speaking": {
+    "title": "Sprechen (Mündlicher Ausdruck)",
+    "duration": "15 Minuten (nach 15 Min. Vorbereitung)",
+    "parts": [
+      {
+        "part": "Teil 1",
+        "description": "Präsentation eines Themas (3-4 Minuten)",
+        "tips": [
+          "Strukturieren Sie Ihre Präsentation klar: Einleitung, Hauptteil, Schluss",
+          "Nutzen Sie die Vorbereitungszeit zum Erstellen von Stichpunkten",
+          "Sprechen Sie frei, lesen Sie nicht ab",
+          "Verwenden Sie Signalwörter: zunächst, danach, schließlich",
+          "Üben Sie mit einem Timer, um ein Gefühl für die Zeit zu bekommen"
+        ]
+      },
+      {
+        "part": "Teil 2",
+        "description": "Diskussion über das präsentierte Thema",
+        "tips": [
+          "Hören Sie aktiv zu und reagieren Sie auf Kommentare",
+          "Begründen Sie Ihre Meinung mit Beispielen",
+          "Bleiben Sie höflich, auch bei Meinungsverschiedenheiten",
+          "Nutzen Sie Redemittel: 'Da stimme ich zu...', 'Ich sehe das anders...', 'Meiner Erfahrung nach...'",
+          "Zeigen Sie Interesse an der Meinung des Gesprächspartners"
+        ]
+      }
+    ],
+    "strategies": [
+      "Üben Sie laut sprechen, auch wenn Sie alleine sind",
+      "Nehmen Sie sich auf und hören Sie sich selbst kritisch an",
+      "Arbeiten Sie an Ihrer Aussprache, besonders bei schwierigen Lauten",
+      "Lernen Sie typische Phrasen und Redemittel auswendig",
+      "Üben Sie mit verschiedenen Themen (Arbeit, Umwelt, Technologie, Bildung)",
+      "Nicht perfekt sein müssen - Kommunikation ist wichtiger als Perfektion",
+      "Wenn Sie ein Wort nicht wissen, umschreiben Sie es"
+    ],
+    "usefulPhrases": [
+      "Ich möchte über... sprechen",
+      "Zunächst möchte ich... erwähnen",
+      "Ein wichtiger Aspekt ist...",
+      "Auf der einen Seite..., auf der anderen Seite...",
+      "Abschließend kann ich sagen...",
+      "Da stimme ich Ihnen zu",
+      "Ich sehe das etwas anders",
+      "Könnten Sie das näher erläutern?"
+    ]
+  },
+  "examDay": {
+    "title": "Am Prüfungstag",
+    "checklist": [
+      {
+        "icon": "🆔",
+        "item": "Gültigen Ausweis mitbringen"
+      },
+      {
+        "icon": "⏰",
+        "item": "Rechtzeitig ankommen (mindestens 30 Minuten vorher)"
+      },
+      {
+        "icon": "✏️",
+        "item": "Stifte, Radiergummi und ggf. erlaubte Hilfsmittel"
+      },
+      {
+        "icon": "💧",
+        "item": "Wasser mitbringen (falls erlaubt)"
+      },
+      {
+        "icon": "😌",
+        "item": "Ausreichend schlafen in der Nacht davor"
+      },
+      {
+        "icon": "🍎",
+        "item": "Gesund frühstücken"
+      }
+    ],
+    "mindset": [
+      "Bleiben Sie ruhig und positiv",
+      "Atmen Sie tief durch, wenn Sie nervös werden",
+      "Konzentrieren Sie sich auf eine Aufgabe nach der anderen",
+      "Wenn Sie eine Frage nicht wissen, gehen Sie weiter und kommen Sie später zurück",
+      "Vertrauen Sie auf Ihre Vorbereitung"
+    ]
+  },
+  "commonMistakes": {
+    "title": "Häufige Fehler vermeiden",
+    "mistakes": [
+      {
+        "error": "Artikel verwechseln (der/die/das)",
+        "solution": "Lernen Sie Substantive immer mit ihrem Artikel. Nutzen Sie Farben oder Kategorien als Merkhilfe."
+      },
+      {
+        "error": "Falsche Präpositionen",
+        "solution": "Lernen Sie feste Wendungen: 'sich freuen auf/über', 'denken an', 'warten auf'. Erstellen Sie eine Liste mit häufigen Verben und ihren Präpositionen."
+      },
+      {
+        "error": "Wortstellung in Nebensätzen",
+        "solution": "Merken Sie sich: In Nebensätzen steht das Verb am Ende. Üben Sie mit 'dass', 'weil', 'obwohl'."
+      },
+      {
+        "error": "Adjektivdeklination",
+        "solution": "Üben Sie systematisch: der gute Mann, ein guter Mann, guter Mann. Nutzen Sie Tabellen als Referenz."
+      },
+      {
+        "error": "Verwechslung von 'sein' und 'haben' bei Perfekt",
+        "solution": "Bewegungsverben und Zustandswechsel nutzen 'sein': gehen → ist gegangen, werden → ist geworden."
+      },
+      {
+        "error": "Falsche Zeitformen",
+        "solution": "Für Berichte und Erzählungen: Präteritum. Für mündliche Kommunikation: Perfekt. Üben Sie beide Formen."
+      }
+    ]
+  }
+}

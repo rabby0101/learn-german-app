@@ -1,0 +1,178 @@
+[
+  {
+    "id": "essay-1",
+    "type": "opinion-essay",
+    "title": "Online-Shopping vs. Traditionelles Einkaufen",
+    "prompt": "Immer mehr Menschen kaufen online ein. Diskutieren Sie die Vor- und Nachteile des Online-Shoppings im Vergleich zum traditionellen Einkaufen im Geschäft. Nehmen Sie Stellung und begründen Sie Ihre Meinung.",
+    "wordCount": { "min": 180, "max": 220 },
+    "timeMinutes": 40,
+    "tips": [
+      "Strukturieren Sie Ihren Aufsatz: Einleitung, Hauptteil (Argumente), Schluss",
+      "Verwenden Sie Konnektoren: einerseits...andererseits, zunächst, außerdem, jedoch",
+      "Geben Sie konkrete Beispiele",
+      "Schreiben Sie im Präsens"
+    ],
+    "keywords": ["Bequemlichkeit", "Auswahl", "Preis", "persönlicher Kontakt", "Beratung", "Umwelt"]
+  },
+  {
+    "id": "essay-2",
+    "type": "opinion-essay",
+    "title": "Homeoffice: Fluch oder Segen?",
+    "prompt": "Seit der Pandemie arbeiten viele Menschen im Homeoffice. Erörtern Sie die Vor- und Nachteile dieser Arbeitsform. Wie sehen Sie die Zukunft der Arbeit?",
+    "wordCount": { "min": 180, "max": 220 },
+    "timeMinutes": 40,
+    "tips": [
+      "Betrachten Sie verschiedene Perspektiven: Arbeitnehmer, Arbeitgeber, Gesellschaft",
+      "Nutzen Sie Relativsätze für komplexere Sätze",
+      "Verwenden Sie Konjunktiv II für Hypothesen"
+    ],
+    "keywords": ["Flexibilität", "Work-Life-Balance", "Produktivität", "soziale Isolation", "Kommunikation"]
+  },
+  {
+    "id": "essay-3",
+    "type": "opinion-essay",
+    "title": "Klimawandel und individuelle Verantwortung",
+    "prompt": "Der Klimawandel ist eine der größten Herausforderungen unserer Zeit. Diskutieren Sie: Welche Verantwortung tragen Einzelpersonen? Reichen individuelle Maßnahmen aus oder brauchen wir vor allem politische Lösungen?",
+    "wordCount": { "min": 180, "max": 220 },
+    "timeMinutes": 40,
+    "tips": [
+      "Nutzen Sie Passivkonstruktionen",
+      "Verwenden Sie Nominalisierungen (z.B. 'die Reduzierung' statt 'reduzieren')",
+      "Zeigen Sie Kausalität: deshalb, deswegen, aus diesem Grund"
+    ],
+    "keywords": ["Verantwortung", "Nachhaltigkeit", "Konsumverhalten", "Politik", "Maßnahmen"]
+  },
+  {
+    "id": "formal-letter-1",
+    "type": "formal-letter",
+    "title": "Bewerbung um ein Praktikum",
+    "prompt": "Sie haben eine Stellenanzeige für ein Praktikum in einem deutschen Unternehmen gesehen. Schreiben Sie einen formellen Brief, in dem Sie sich bewerben. Stellen Sie sich vor, erklären Sie Ihre Motivation und beschreiben Sie Ihre Qualifikationen.",
+    "wordCount": { "min": 150, "max": 200 },
+    "timeMinutes": 35,
+    "tips": [
+      "Verwenden Sie die richtige Briefform: Absender, Empfänger, Datum, Betreff",
+      "Höfliche Anrede: Sehr geehrte Damen und Herren / Sehr geehrte Frau/Herr...",
+      "Formelle Sprache: Konjunktiv, höfliche Formulierungen",
+      "Passende Grußformel: Mit freundlichen Grüßen"
+    ],
+    "keywords": ["Bewerbung", "Qualifikationen", "Erfahrung", "Motivation", "Interesse"]
+  },
+  {
+    "id": "formal-letter-2",
+    "type": "formal-letter",
+    "title": "Beschwerde über ein Produkt",
+    "prompt": "Sie haben vor zwei Wochen ein teures elektronisches Gerät online gekauft, das defekt ist. Schreiben Sie eine formelle Beschwerde an den Online-Shop. Beschreiben Sie das Problem und fordern Sie eine Lösung.",
+    "wordCount": { "min": 150, "max": 200 },
+    "timeMinutes": 35,
+    "tips": [
+      "Bleiben Sie sachlich, aber bestimmt",
+      "Beschreiben Sie das Problem genau",
+      "Fordern Sie konkrete Maßnahmen (Umtausch, Rückerstattung)",
+      "Setzen Sie eine angemessene Frist"
+    ],
+    "keywords": ["Beschwerde", "defekt", "Reklamation", "Umtausch", "Rückerstattung", "Gewährleistung"]
+  },
+  {
+    "id": "formal-letter-3",
+    "type": "formal-letter",
+    "title": "Anfrage für Informationen",
+    "prompt": "Sie möchten an einer deutschen Universität studieren. Schreiben Sie einen formellen Brief an das Akademische Auslandsamt und bitten Sie um Informationen über Studiengänge, Zulassungsvoraussetzungen und Bewerbungsfristen.",
+    "wordCount": { "min": 150, "max": 200 },
+    "timeMinutes": 35,
+    "tips": [
+      "Stellen Sie spezifische Fragen",
+      "Erklären Sie Ihre Situation kurz",
+      "Bedanken Sie sich im Voraus",
+      "Verwenden Sie indirekte Fragesätze"
+    ],
+    "keywords": ["Studium", "Informationen", "Voraussetzungen", "Bewerbung", "Studiengang"]
+  },
+  {
+    "id": "blog-1",
+    "type": "blog-post",
+    "title": "Erfahrungsbericht: Leben in Deutschland",
+    "prompt": "Sie leben seit einem Jahr in Deutschland. Schreiben Sie einen Blogbeitrag über Ihre Erfahrungen. Was war überraschend? Was gefällt Ihnen? Was finden Sie schwierig?",
+    "wordCount": { "min": 180, "max": 220 },
+    "timeMinutes": 40,
+    "tips": [
+      "Persönlicher, aber strukturierter Stil",
+      "Verwenden Sie Vergangenheitstempora (Perfekt, Präteritum)",
+      "Beschreiben Sie konkrete Situationen und Beispiele",
+      "Sprechen Sie den Leser direkt an"
+    ],
+    "keywords": ["Kultur", "Erfahrung", "Alltag", "Unterschiede", "Integration"]
+  },
+  {
+    "id": "blog-2",
+    "type": "blog-post",
+    "title": "Tipps für erfolgreiches Sprachenlernen",
+    "prompt": "Sie lernen seit mehreren Jahren Deutsch. Schreiben Sie einen Blogbeitrag mit Tipps und Tricks für erfolgreiches Sprachenlernen. Teilen Sie Ihre persönlichen Erfahrungen und Methoden.",
+    "wordCount": { "min": 180, "max": 220 },
+    "timeMinutes": 40,
+    "tips": [
+      "Geben Sie praktische, konkrete Tipps",
+      "Nutzen Sie Aufzählungen",
+      "Ermutigen Sie die Leser",
+      "Verwenden Sie Beispiele aus Ihrer eigenen Erfahrung"
+    ],
+    "keywords": ["Methode", "Motivation", "Übung", "Fehler", "Fortschritt", "Geduld"]
+  },
+  {
+    "id": "essay-4",
+    "type": "opinion-essay",
+    "title": "Soziale Medien und ihre Auswirkungen",
+    "prompt": "Soziale Medien spielen in unserem Leben eine immer größere Rolle. Diskutieren Sie die Auswirkungen von sozialen Medien auf die Gesellschaft, insbesondere auf junge Menschen. Nehmen Sie Stellung.",
+    "wordCount": { "min": 180, "max": 220 },
+    "timeMinutes": 40,
+    "tips": [
+      "Berücksichtigen Sie positive und negative Aspekte",
+      "Nutzen Sie Beispiele aus dem Alltag",
+      "Verwenden Sie Konjunktionen für Kontraste: während, wohingegen"
+    ],
+    "keywords": ["Kommunikation", "Information", "Sucht", "Privatsphäre", "Cybermobbing", "Vernetzung"]
+  },
+  {
+    "id": "essay-5",
+    "type": "opinion-essay",
+    "title": "Elektromobilität: Die Zukunft des Verkehrs?",
+    "prompt": "Elektroautos werden als umweltfreundliche Alternative zu Benzin- und Dieselfahrzeugen beworben. Diskutieren Sie, ob Elektromobilität wirklich die Lösung für unsere Verkehrsprobleme ist.",
+    "wordCount": { "min": 180, "max": 220 },
+    "timeMinutes": 40,
+    "tips": [
+      "Berücksichtigen Sie Umweltaspekte, Wirtschaft und Infrastruktur",
+      "Verwenden Sie Fachvokabular",
+      "Zeigen Sie Ursache-Wirkungs-Zusammenhänge"
+    ],
+    "keywords": ["Umwelt", "Energie", "Infrastruktur", "Kosten", "Nachhaltigkeit", "Alternative"]
+  },
+  {
+    "id": "formal-letter-4",
+    "type": "formal-letter",
+    "title": "Antrag auf Urlaubstage",
+    "prompt": "Sie möchten für einen wichtigen familiären Anlass zusätzliche Urlaubstage beantragen. Schreiben Sie einen formellen Brief an Ihren Arbeitgeber, in dem Sie die Situation erklären und um Verständnis bitten.",
+    "wordCount": { "min": 150, "max": 200 },
+    "timeMinutes": 35,
+    "tips": [
+      "Erklären Sie den Grund klar und höflich",
+      "Zeigen Sie Verständnis für betriebliche Belange",
+      "Bieten Sie Lösungen an (Vertretung, Erreichbarkeit)",
+      "Verwenden Sie höfliche Formulierungen mit Konjunktiv"
+    ],
+    "keywords": ["Urlaub", "Antrag", "Familie", "Vertretung", "Verständnis"]
+  },
+  {
+    "id": "report-1",
+    "type": "report",
+    "title": "Bericht über eine Veranstaltung",
+    "prompt": "Sie haben an einer Konferenz zum Thema 'Digitalisierung in der Bildung' teilgenommen. Schreiben Sie einen Bericht für Ihre Kollegen, in dem Sie die wichtigsten Punkte zusammenfassen.",
+    "wordCount": { "min": 180, "max": 220 },
+    "timeMinutes": 40,
+    "tips": [
+      "Objektiver, sachlicher Stil",
+      "Klare Struktur: Einleitung, Hauptinhalt, Fazit",
+      "Verwenden Sie Passivkonstruktionen",
+      "Nutzen Sie Nominalisierungen"
+    ],
+    "keywords": ["Konferenz", "Themen", "Diskussion", "Ergebnis", "Empfehlung"]
+  }
+]

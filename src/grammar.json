@@ -1,0 +1,197 @@
+[
+  {
+    "title": "Nominative Case",
+    "explanation": "The nominative case is used for the subject of a sentence. The subject is the person or thing that performs the action of the verb.",
+    "example": "Der Mann (The man) isst einen Apfel. (The man eats an apple.)"
+  },
+  {
+    "title": "Accusative Case",
+    "explanation": "The accusative case is used for the direct object of a sentence. The direct object is the person or thing that receives the action of the verb.",
+    "example": "Ich sehe den Hund. (I see the dog.)"
+  },
+  {
+    "title": "Dative Case",
+    "explanation": "The dative case is used for the indirect object of a sentence. The indirect object is the person or thing that benefits from the action of the verb.",
+    "example": "Ich gebe dem Mann ein Buch. (I give the man a book.)"
+  },
+  {
+    "title": "Präpositionen mit Genitiv (Prepositions with Genitive)",
+    "explanation": "Certain prepositions always take the genitive case, indicating possession or relationship.",
+    "example": "Trotz des Regens (Despite the rain); Wegen des Wetters (Because of the weather)"
+  },
+  {
+    "title": "Verben mit Präpositionen (Verbs with Prepositions)",
+    "explanation": "Many German verbs are followed by fixed prepositions. The preposition determines which case follows: accusative, dative, or sometimes genitive. Learning these combinations is essential for B2 level.",
+    "example": "Ich freue mich auf die Ferien. (I look forward to the vacation.) - auf + Akkusativ; Er träumt von einer Reise. (He dreams of a trip.) - von + Dativ"
+  },
+  {
+    "title": "Konjunktiv I (Subjunctive I - Indirect Speech)",
+    "explanation": "Konjunktiv I is primarily used for indirect speech (reported speech) in formal contexts like newspapers. It's formed from the infinitive stem + endings: -e, -est, -e, -en, -et, -en.",
+    "example": "Er sagt, er habe keine Zeit. (He says he has no time.); Sie behauptet, sie sei krank gewesen. (She claims she was sick.)"
+  },
+  {
+    "title": "Konjunktiv II (Subjunctive II)",
+    "explanation": "Konjunktiv II is used for hypothetical situations, wishes, polite requests, and unreal comparisons. For irregular verbs, it's formed from the Präteritum stem with Umlaut if possible; for regular verbs, use 'würde' + infinitive.",
+    "example": "Wenn ich Zeit hätte, würde ich dich besuchen. (If I had time, I would visit you.); Wäre ich doch in Köln geblieben! (If only I had stayed in Cologne!)"
+  },
+  {
+    "title": "Adjektivendungen (Adjective Endings)",
+    "explanation": "German adjectives take endings depending on the gender, case, and whether a definite or indefinite article is used. Typical adjective suffixes include: -lich, -ig, -isch, -sam, -arm, -reich, -voll, -iv, -ent, -ant, -ell. Adjectives from Latin often end in -iv, -ant, -ell.",
+    "example": "informativ, intensiv, interessant, tolerant, aktuell, sensationell"
+  },
+  {
+    "title": "Uneingeleitete wenn-Sätze (Conditional Clauses without 'wenn')",
+    "explanation": "Conditional clauses with 'wenn' can be shortened by omitting 'wenn' and placing the conjugated verb at the beginning of the sentence.",
+    "example": "Wenn Sie reservieren möchten, drücken Sie die 1. → Möchten Sie reservieren, drücken Sie die 1."
+  },
+  {
+    "title": "dass-Sätze und Infinitiv mit zu (dass-clauses and Infinitive with zu)",
+    "explanation": "When the subject or object in the main clause is identical to the subject in the dass-clause, the subordinate clause is often formed with Infinitiv + zu. However, after verbs of saying, perceiving, and knowing (sagen, sehen, hören, wissen, etc.), Infinitiv + zu cannot be used.",
+    "example": "Der Wirt kann sich nicht vorstellen, dass er den Krimi allein anschaut. → Der Wirt kann sich nicht vorstellen, den Krimi allein anzuschauen."
+  },
+  {
+    "title": "dass-Sätze als Ergänzung (dass-clauses as Complements)",
+    "explanation": "dass-clauses often replace nominative, accusative, or prepositional complements in sentences.",
+    "example": "Besonders bemerkenswert ist der Erfolg. → Besonders bemerkenswert ist, dass 'Tatort' erfolgreich ist."
+  },
+  {
+    "title": "Temporale Konnektoren (Temporal Connectors)",
+    "explanation": "Temporal connectors express time relationships. For simultaneous actions: während, solange, als. For non-simultaneous actions: bevor/ehe (before), nachdem (after), sobald (as soon as). Note: nachdem requires a tense shift (Plusquamperfekt in subordinate clause).",
+    "example": "Während sie noch zur Schule gehen, machen Schüler schon Praktika. (While they are still in school, students already do internships.)"
+  },
+  {
+    "title": "Temporale Präpositionen (Temporal Prepositions)",
+    "explanation": "Temporal relationships can be expressed nominally with prepositions: vor + Dativ (before), während + Genitiv (during), nach + Dativ (after). Nominal expressions are typical for written language.",
+    "example": "Vor der Bewerbung informiere ich mich über das Gastland. (Before the application, I inform myself about the host country.)"
+  },
+  {
+    "title": "Nachsilbe -weise bei Adverbien (Adverb Suffix -weise)",
+    "explanation": "Modal adverbs with the suffix -weise indicate how something is done and express an evaluation. They can be formed from adjectives or nouns, often with a linking element (Fugenelement).",
+    "example": "normalerweise (normally), beziehungsweise (respectively), stellenweise (in places), probeweise (on a trial basis)"
+  },
+  {
+    "title": "Das Verb lassen (The Verb 'lassen')",
+    "explanation": "The verb 'lassen' has multiple meanings: 1) to allow/permit, 2) to have something done by others, 3) something is possible, 4) to leave something as it is. In Perfekt with infinitive, it uses a double infinitive construction.",
+    "example": "Laura lässt gern Fotos von sich machen. (Laura likes to have photos taken of herself.); Laura hat gern Fotos von sich machen lassen."
+  },
+  {
+    "title": "Futur II (Future Perfect - Expressing Assumptions)",
+    "explanation": "Futur II is used to express assumptions about events in the past. It's formed with werden + Partizip II + haben/sein. It can be replaced by adverbs like 'wohl' or 'vermutlich'.",
+    "example": "Da wird sich Ihr Leben ziemlich verändert haben. = Da hat sich Ihr Leben wohl ziemlich verändert. (Your life probably changed quite a bit.)"
+  },
+  {
+    "title": "Verbverbindungen (Verb Combinations)",
+    "explanation": "Some verbs combine with infinitives without 'zu', including: gehen, lernen, bleiben, sehen, hören. Verb combinations with sehen and hören form the Perfekt with a double infinitive.",
+    "example": "Sie gehen öfter mal joggen. → Sie sind öfter mal joggen gegangen. (They went jogging more often.)"
+  },
+  {
+    "title": "Nominalisierung von Verben (Nominalization of Verbs)",
+    "explanation": "The infinitive of verbs becomes a neuter noun, often combined with nouns or adverbs to form compound words.",
+    "example": "mit den Hüften kreisen → das Hüftkreisen; Kopf schütteln → das Kopfschütteln; vorwärts hüpfen → das Vorwärtshüpfen"
+  },
+  {
+    "title": "Irreale Bedingungen und Wünsche (Unreal Conditions and Wishes)",
+    "explanation": "Konjunktiv II expresses unreal conditions and wishes. For present time use Konjunktiv II; for past time use Konjunktiv II Perfekt (hätte/wäre + Partizip II). Wishes require particles like 'doch', 'nur', or 'bloß'.",
+    "example": "Wenn Jana die App nicht verwendet hätte, hätte sie nicht alle Attraktionen gesehen. (If Jana hadn't used the app, she wouldn't have seen all the attractions.)"
+  },
+  {
+    "title": "Irrealer Vergleich mit als ob (Unreal Comparison with 'als ob')",
+    "explanation": "Unreal comparisons express that something appears to be a certain way but isn't certain. They use 'als ob' or 'als wenn' with Konjunktiv II. Without 'ob/wenn', the conjugated verb follows directly after 'als'.",
+    "example": "Es sieht so aus, als ob die Welle so hoch wie ein Haus wäre. (It looks as if the wave is as high as a house.)"
+  },
+  {
+    "title": "Relativsätze (Relative Clauses)",
+    "explanation": "Relative clauses describe nouns more precisely. The relative pronoun agrees in gender and number with the noun it refers to; its case is determined by its function in the relative clause. Special forms: wo, wohin, woher for locations; was for indefinite pronouns.",
+    "example": "Das ist der Mann, der mir geholfen hat. (This is the man who helped me.); Das ist etwas, was mich interessiert. (This is something that interests me.)"
+  },
+  {
+    "title": "Relativsätze mit Präpositionen (Relative Clauses with Prepositions)",
+    "explanation": "When the relative pronoun is governed by a preposition, the preposition comes before the relative pronoun. The case of the relative pronoun is determined by the preposition.",
+    "example": "Das ist der Film, über den alle sprechen. (This is the film everyone is talking about.)"
+  },
+  {
+    "title": "Konzessivsätze (Concessive Clauses)",
+    "explanation": "Concessive clauses express a contrast or unexpected outcome. Key connectors: obwohl, obgleich, auch wenn, selbst wenn, trotzdem, dennoch, allerdings.",
+    "example": "Obwohl es regnete, gingen wir spazieren. (Although it was raining, we went for a walk.)"
+  },
+  {
+    "title": "Vergleichssätze mit je ... desto/umso (Comparative Clauses)",
+    "explanation": "Sentences with 'je ... desto/umso' express proportional comparisons. 'Je' introduces a subordinate clause with the verb at the end; 'desto/umso' introduces the main clause with verb-second position.",
+    "example": "Je mehr man übt, desto besser wird man. (The more you practice, the better you become.)"
+  },
+  {
+    "title": "Graduierende Adverbien (Intensifying Adverbs)",
+    "explanation": "Intensifying adverbs modify adjectives or other adverbs to express degree. Examples: ziemlich (quite), etwas (somewhat), höchst (extremely), überaus (exceedingly), recht (rather). 'So' or 'derartig' stand before adjectives or adverbs.",
+    "example": "Das Essen war ziemlich gut. (The food was quite good.); Er ist überaus freundlich. (He is exceedingly friendly.)"
+  },
+  {
+    "title": "Nomen-Verb-Verbindungen (Noun-Verb Collocations)",
+    "explanation": "Fixed combinations of nouns and verbs are common in written German. These formal expressions often have simpler verb equivalents in spoken language. Many nouns can combine with multiple verbs.",
+    "example": "eine Entscheidung treffen = entscheiden (to decide); eine Frage stellen = fragen (to ask); Verantwortung übernehmen = verantworten (to be responsible)"
+  },
+  {
+    "title": "Wortbildung: Negation durch Vor- und Nachsilben (Word Formation: Negation)",
+    "explanation": "Adjectives can be negated using prefixes (a-, des-, ir-, miss-, non-, un-) or the suffix -los. The prefix un- is the most common.",
+    "example": "asozial (antisocial), desillusioniert (disillusioned), irrelevant, missverständlich (misleading), nonverbal, uninteressant, anspruchslos (undemanding)"
+  },
+  {
+    "title": "Alternativen zum Passiv: Adjektive auf -bar und -lich (Passive Alternatives)",
+    "explanation": "Adjectives ending in -bar or -lich often replace passive constructions. The suffix -bar almost always means something 'can be done'; -lich sometimes has this meaning. Negation is formed with un-.",
+    "example": "ein realisierbares Projekt = ein Projekt, das realisiert werden kann (a project that can be realized); ein verständlicher Text = ein Text, der verstanden werden kann"
+  },
+  {
+    "title": "Alternativen zum Passiv: sich lassen + Infinitiv und sein + zu + Infinitiv",
+    "explanation": "Active sentences with 'sich lassen + Infinitiv' or 'sein + zu + Infinitiv' replace passive sentences with können, müssen, sollen, or dürfen.",
+    "example": "Ein 3-Gänge-Menü lässt sich für 10 Euro machen. = Ein 3-Gänge-Menü kann für 10 Euro gemacht werden.; Die Rechnung ist noch zu bezahlen. = Die Rechnung muss noch bezahlt werden."
+  },
+  {
+    "title": "Subjektlose Passivsätze (Subjectless Passive Sentences)",
+    "explanation": "When an active sentence has no accusative object, the passive sentence has no subject (subjectless passive). If position 1 is empty, 'es' fills that position.",
+    "example": "Man beginnt mit den Vorbereitungen schon im Februar. → Es wird mit den Vorbereitungen schon im Februar begonnen."
+  },
+  {
+    "title": "Indefinitpronomen (Indefinite Pronouns)",
+    "explanation": "Indefinite pronouns refer to unspecified or unknown persons or things: man, (irgend)jemand, niemand, (irgend)einer/-e/-s, (irgend)welche, (irgend)etwas, nichts, keiner. The endings for Akkusativ/Dativ of (irgend)jemand/niemand are optional.",
+    "example": "Wenn ihr irgendjemanden aus unserem Kurs seht, gebt Bescheid. (If you see anyone from our course, let us know.)"
+  },
+  {
+    "title": "Modale Zusammenhänge (Modal Relationships)",
+    "explanation": "Modal connectors and prepositions express how something happens or is done. Verbal connectors: dadurch dass, indem, ohne dass, (an)statt dass. Nominal prepositions: durch + Akk, ohne + Akk, statt + Gen. 'Indem' requires identical subjects in both clauses.",
+    "example": "Man kann sich das Rauchen abgewöhnen, indem man ein spezielles Pflaster verwendet. = Durch Verwendung eines speziellen Pflasters kann man sich das Rauchen abgewöhnen."
+  },
+  {
+    "title": "Erweitertes Partizip (Extended Participle)",
+    "explanation": "Extended participles function like relative clauses for describing persons or things more precisely. They're common in written language. Partizip I (present participle) indicates ongoing/active actions; Partizip II (past participle) indicates completed/passive actions.",
+    "example": "der ständig telefonierende Junge = der Junge, der ständig telefoniert; schon lange bezahlte Rechnungen = Rechnungen, die schon lange bezahlt wurden"
+  },
+  {
+    "title": "Adversativsätze (Adversative Clauses)",
+    "explanation": "Adversative connectors express contrast or opposition: während (while/whereas), dagegen (on the other hand), im Gegensatz dazu (in contrast).",
+    "example": "Auf dem Land wird man in Zukunft noch Dialekt hören, während Jugendliche in Städten fast nur noch Hochdeutsch sprechen."
+  },
+  {
+    "title": "Partizipien als Nomen (Participles as Nouns)",
+    "explanation": "Present and past participles can be used as nouns for a concise, gender-neutral expression. As nouns, participles are still declined like adjectives.",
+    "example": "die/der Angestellte (the employee); die/der Studierende (the student); der Heranwachsende (the adolescent)"
+  },
+  {
+    "title": "Fugenelement -s- bei Nomen (Linking Element -s- in Compound Nouns)",
+    "explanation": "The linking element -s- connects parts of compound nouns. It always appears after these suffixes: -heit, -ion, -ität, -keit, -ling, -schaft, -tum, -ung.",
+    "example": "Freiheitskampf (freedom struggle), Diskussionsrunde (discussion round), Identitätsverlust (identity loss), Tätigkeitsbereich (area of activity), Freundschaftspreis (friendship price)"
+  },
+  {
+    "title": "Passiv (Passive Voice)",
+    "explanation": "Used to describe an action where the focus is on the action itself or the recipient of the action, rather than the performer. Formed with werden + Partizip II.",
+    "example": "Das Buch wird gelesen. (The book is being read.)"
+  },
+  {
+    "title": "Partizipien (Participles)",
+    "explanation": "Participles (present and past) can be used as adjectives or to form complex tenses and extended attributes.",
+    "example": "Das schlafende Kind (The sleeping child); Der von mir gelesene Roman (The novel read by me)"
+  },
+  {
+    "title": "Nebensätze (Subordinate Clauses)",
+    "explanation": "Complex sentences often use subordinate clauses introduced by conjunctions like 'obwohl' (although), 'damit' (so that), 'so dass' (so that/with the result that), etc. The conjugated verb moves to the end of the subordinate clause.",
+    "example": "Obwohl es regnete, gingen wir spazieren. (Although it was raining, we went for a walk.)"
+  }
+]

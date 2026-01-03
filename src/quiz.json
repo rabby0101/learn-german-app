@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the English translation of 'Hallo'?",
+    "options": ["Hello", "Goodbye", "Thank you", "Please"],
+    "answer": "Hello"
+  },
+  {
+    "question": "What is the English translation of 'Danke'?",
+    "options": ["Hello", "Goodbye", "Thank you", "Please"],
+    "answer": "Thank you"
+  },
+  {
+    "question": "What is the English translation of 'Bitte'?",
+    "options": ["Hello", "Goodbye", "Thank you", "Please / You're welcome"],
+    "answer": "Please / You're welcome"
+  },
+  {
+    "question": "What is the English translation of 'Guten Morgen'?",
+    "options": ["Good afternoon", "Good morning", "Good night", "Good evening"],
+    "answer": "Good morning"
+  },
+  {
+    "question": "What is the English translation of 'Guten Abend'?",
+    "options": ["Good morning", "Good afternoon", "Good evening", "Good night"],
+    "answer": "Good evening"
+  },
+  {
+    "question": "What is the English translation of 'Ja'?",
+    "options": ["No", "Maybe", "Yes", "Always"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the English translation of 'Nein'?",
+    "options": ["Yes", "No", "Perhaps", "Soon"],
+    "answer": "No"
+  },
+  {
+    "question": "What is the English translation of 'Entschuldigung'?",
+    "options": ["Thank you", "Excuse me / Sorry", "Hello", "Goodbye"],
+    "answer": "Excuse me / Sorry"
+  },
+  {
+    "question": "What is the English translation of 'Auf Wiedersehen'?",
+    "options": ["Hello", "See you later", "Goodbye", "Good day"],
+    "answer": "Goodbye"
+  },
+  {
+    "question": "What is the English translation of 'Ich liebe dich'?",
+    "options": ["I like you", "I miss you", "I love you", "I hate you"],
+    "answer": "I love you"
+  },
+  {
+    "question": "Which case is used for the subject of a sentence?",
+    "options": ["Accusative", "Dative", "Nominative", "Genitive"],
+    "answer": "Nominative"
+  },
+  {
+    "question": "Which case is used for the direct object of a sentence?",
+    "options": ["Nominative", "Dative", "Accusative", "Genitive"],
+    "answer": "Accusative"
+  },
+  {
+    "question": "Which case is used for the indirect object of a sentence?",
+    "options": ["Accusative", "Nominative", "Genitive", "Dative"],
+    "answer": "Dative"
+  },
+  {
+    "question": "Konjunktiv II is used for what kind of situations?",
+    "options": ["Real events", "Hypothetical situations", "Future plans", "Past actions"],
+    "answer": "Hypothetical situations"
+  },
+  {
+    "question": "What is the primary focus of the Passive Voice?",
+    "options": ["The performer of the action", "The action itself or the recipient", "The time of the action", "The location of the action"],
+    "answer": "The action itself or the recipient"
+  },
+  {
+    "question": "Participles can be used as what?",
+    "options": ["Only verbs", "Only nouns", "Adjectives or to form complex tenses", "Adverbs"],
+    "answer": "Adjectives or to form complex tenses"
+  },
+  {
+    "question": "Which conjunction introduces a subordinate clause meaning 'although'?",
+    "options": ["damit", "so dass", "obwohl", "weil"],
+    "answer": "obwohl"
+  },
+  {
+    "question": "Which case do prepositions like 'trotz' and 'wegen' take?",
+    "options": ["Nominative", "Accusative", "Dative", "Genitive"],
+    "answer": "Genitive"
+  },
+  {
+    "question": "What is the English translation of 'die Errungenschaft'?",
+    "options": ["Challenge", "Sustainability", "Achievement", "Realization"],
+    "answer": "achievement"
+  },
+  {
+    "question": "What is the English translation of 'die Nachhaltigkeit'?",
+    "options": ["Challenge", "Sustainability", "Achievement", "Realization"],
+    "answer": "sustainability"
+  }
+]

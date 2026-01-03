@@ -1,0 +1,78 @@
+
+[
+  {
+    "german": "Hallo",
+    "english": "Hello",
+    "example": "Hallo, wie geht's?"
+  },
+  {
+    "german": "Danke",
+    "english": "Thank you",
+    "example": "Vielen Dank für Ihre Hilfe."
+  },
+  {
+    "german": "Bitte",
+    "english": "Please / You're welcome",
+    "example": "Eine Tasse Kaffee, bitte."
+  },
+  {
+    "german": "Guten Morgen",
+    "english": "Good morning",
+    "example": "Guten Morgen, Herr Schmidt."
+  },
+  {
+    "german": "Guten Abend",
+    "english": "Good evening",
+    "example": "Guten Abend, meine Damen und Herren."
+  },
+  {
+    "german": "Ja",
+    "english": "Yes",
+    "example": "Ja, das stimmt."
+  },
+  {
+    "german": "Nein",
+    "english": "No",
+    "example": "Nein, das ist falsch."
+  },
+  {
+    "german": "Entschuldigung",
+    "english": "Excuse me / Sorry",
+    "example": "Entschuldigung, wo ist die Toilette?"
+  },
+  {
+    "german": "Auf Wiedersehen",
+    "english": "Goodbye",
+    "example": "Auf Wiedersehen, bis bald!"
+  },
+  {
+    "german": "Ich liebe dich",
+    "english": "I love you",
+    "example": "Ich liebe dich über alles."
+  },
+  {
+    "german": "die Errungenschaft",
+    "english": "achievement",
+    "example": "Die Entwicklung des Impfstoffs ist eine große Errungenschaft."
+  },
+  {
+    "german": "die Nachhaltigkeit",
+    "english": "sustainability",
+    "example": "Nachhaltigkeit ist entscheidend für die Zukunft unseres Planeten."
+  },
+  {
+    "german": "die Herausforderung",
+    "english": "challenge",
+    "example": "Diese Aufgabe ist eine große Herausforderung für mich."
+  },
+  {
+    "german": "die Verwirklichung",
+    "english": "realization / fulfillment",
+    "example": "Die Verwirklichung seiner Träume war sein größtes Ziel."
+  },
+  {
+    "german": "die Erkenntnis",
+    "english": "insight / realization",
+    "example": "Diese Erkenntnis hat mein Leben verändert."
+  }
+]
